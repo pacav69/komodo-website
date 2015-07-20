@@ -6,8 +6,15 @@
         <link>http://komodoide.com/blog/</link>
         <language>en</language>
         <webMaster>support@activestate.com (ActiveState Support)</webMaster>
-        <lastBuildDate>Mon, 20 Jul 2015 09:01:25 -0700</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2015 11:54:18 -0700</lastBuildDate>
         <generator>Middleman 3.3.10</generator>
+            <item>
+                <title>The Komodo in Cascadia</title>
+                <link>http://komodoide.com/blog/the-komodo-in-cascadia</link>
+                <pubDate>Sun, 19 Jul 2015 17:00:00 -0700</pubDate>
+                <description>From July 8th to 11th 2015, I was away from the office to attend a conference.  The office was in shambles without me (or so I'd like to think) but I did return and everything is back to normal.</description>
+                <guid>http://komodoide.com/blog/the-komodo-in-cascadia</guid>
+            </item>
             <item>
                 <title>Focus Mode (aka Distraction Free Mode) in Komodo</title>
                 <link>http://komodoide.com/blog/focus-mode-aka-distraction-free-mode-in-komodo</link>
@@ -105,13 +112,6 @@
                 <pubDate>Tue, 21 Apr 2015 17:00:00 -0700</pubDate>
                 <description> If you're going to be staring at a screen all day writing code, you had better enjoy looking at your screen! Many IDEs and Editors allow you ability to make your editor have a custom look, and Komodo is no exception.</description>
                 <guid>http://komodoide.com/blog/changing-color-schemes-in-komodo-you-know-you-wanna</guid>
-            </item>
-            <item>
-                <title>Komodo 9.0.1 Released, Many Fixes & Enhancements</title>
-                <link>http://komodoide.com/blog/komodo-9-0-1-released-many-fixes-and-enhancements</link>
-                <pubDate>Sun, 19 Apr 2015 17:00:00 -0700</pubDate>
-                <description> Less than a month after our awesome 9.0 release, we're following up with our first minor Komodo 9 release. This build contains important bug fixes and is a recommended update for all Komodo 9 users.</description>
-                <guid>http://komodoide.com/blog/komodo-9-0-1-released-many-fixes-and-enhancements</guid>
             </item>
     </channel>
 </rss>
