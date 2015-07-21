@@ -13,6 +13,18 @@
     <priority>0.1</priority>
   </url>
   <url>
+    <loc>http://komodoide.com/packages/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/tcl/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>http://komodoide.com/startpage/6/</loc>
     <lastmod>2015-06-24T12:48:01-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -81,78 +93,6 @@
   <url>
     <loc>http://komodoide.com/authors/</loc>
     <lastmod>2015-06-11T09:35:02-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/toolbox/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/addons/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/misc/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/keybinds/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/popular/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/skins/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/install-instructions/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/macros/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/languages/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/schemes/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/submit-instructions/</loc>
-    <lastmod>2015-04-30T12:08:28-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/downloads/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -325,6 +265,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://komodoide.com/screencasts/color-schemes/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://komodoide.com/screencasts/komodo-8.5-overview/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -338,12 +284,6 @@
   </url>
   <url>
     <loc>http://komodoide.com/blog/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/</loc>
     <lastmod>2015-04-23T13:01:51-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -470,9 +410,81 @@
   </url>
   <url>
     <loc>http://komodoide.com/</loc>
-    <lastmod>2015-07-10T08:16:55-07:00</lastmod>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/toolbox/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/addons/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/misc/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/keybinds/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/popular/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/skins/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/install-instructions/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/languages/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/submit-instructions/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/downloads/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/blog/package-managers-shell-commands-and-workspaces-introducting-komodo-9-1/</loc>
@@ -2515,716 +2527,1508 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/keybinds/komodo--sublimekeybindings/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/keybinds/sublime-keybindings/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/keybinds/softmoonwebware--keybindingsupport/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/keybinds/sublime-keybindings/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/languages/komodo--mel/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/keybinds/keybinding-support/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/languages/jacoby--rlanguage/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/keybinds/keybinding-support/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/languages/rkgarcia--jadesyntaxhighlighting/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/languages/mel/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/languages/creiht--makotemplatehighlighting/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/languages/mel/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/languages/jason hardies--peoplecodelanguage/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/languages/r-language/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/languages/komodo--dita/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/languages/r-language/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/languages/robkellett--dlanguage/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/languages/jade-syntax-highlighting/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/languages/philip j. cooper--n3turtlelanguage/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/languages/jade-syntax-highlighting/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/languages/todd whiteman--tclsyntaxchecker/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/languages/mako-template-highlighting/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/languages/eric promislow--hamlsyntaxhighlighting/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/languages/mako-template-highlighting/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/languages/elfprince13--torquescript/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/languages/peoplecode-language/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/languages/chicoff--umnmapservermapfilessyntaxhighlight/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/languages/peoplecode-language/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/languages/quuxplusone--objective-c/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/languages/dita/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/languages/marnen--lilypond/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/languages/dita/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/languages/tmueller--moose/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/languages/d-language/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/toolbox/babobski--bootstrapsnippetcollection/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/languages/d-language/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/toolbox/tlinkner--webbasicssnippetcollection/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/languages/n3turtle-language/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/toolbox/mearleycf--zurbfoundationframeworksnippetcollection/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/languages/n3turtle-language/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/toolbox/bug273--drupalsnippetcollection/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/languages/tcl-syntax-checker/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/toolbox/unbracketed--djangotoolboxcollection/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/languages/tcl-syntax-checker/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/babobski--lesscompiler/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/languages/haml-syntax-highlighting/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/komodo--focusmode/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/languages/haml-syntax-highlighting/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/komodo--mysqldatabaseexplorer/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/languages/torque-script/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/komodo--editorconfig/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/languages/torque-script/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/komodo--projectsscope/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/languages/umn-mapserver-mapfiles-syntax-highlight/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/1ec5--avim/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/languages/umn-mapserver-mapfiles-syntax-highlight/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/htd--newsourcetree/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/languages/objective-c/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/lazierthanthou--sqlitemanager/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/languages/objective-c/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/wakatime--wakatime/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/languages/lilypond/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/manngo--htmltools/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/languages/lilypond/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/jasonbarnabe--stylish/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/languages/moose/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/agroszer--qwin/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/languages/moose/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/komodo--komododeveloperextension/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/toolbox/bootstrap-snippet-collection/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/komodo--dominspector/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/toolbox/bootstrap-snippet-collection/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/agroszer--exuberantctagssupport/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/toolbox/web-basics-snippet-collection/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/dafizilla--tabswitcher/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/toolbox/web-basics-snippet-collection/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/dafizilla--klint/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/toolbox/zurb-foundation-framework-snippet-collection/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/jdpaton--paster/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/toolbox/zurb-foundation-framework-snippet-collection/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/raymondbutcher--perfectpython/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/toolbox/drupal-snippet-collection/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/cran--sciviews-r/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/toolbox/drupal-snippet-collection/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/defman21--elementinspector/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/toolbox/django-toolbox-collection/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/komodo--kopyiointegration/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/toolbox/django-toolbox-collection/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/komodo--todohelper/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/less-compiler/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/davestewart--autocode/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/less-compiler/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/komodo--sidebysidediff/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/focus-mode/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/komodo--dita/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/focus-mode/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/davide ficano--tabswitcherrevived/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/mysql-database-explorer/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/philippe grosjean--sciviews-k/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/mysql-database-explorer/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/sergey chikuyonok--emmet/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/editorconfig/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/todd whiteman--remotedrivetree/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/editorconfig/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/tuomassalo--quickdiff/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/projects-scope/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/mackers--xultris/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/projects-scope/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/titobouzout--komodingit/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/avim/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/misc/defman21--russianlanguage/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/avim/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/misc/tonyubuntu--italiantranslation/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/new-source-tree/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/misc/rilindo--opscodecookbook/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/new-source-tree/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/naatan--autotogglepanes/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/sqlite-manager/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/magicalhobo--magicalhobosmacros/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/sqlite-manager/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/naatan--openongithub/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/wakatime/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/toddw-as--multiroweditortabs/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/wakatime/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/atmanactive--sortopentabsbyfullpath/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/html-tools/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/komodo--marktext/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/html-tools/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/toddw-as--commenttoggle/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/stylish/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/cgchoffman--printtooutputpane/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/stylish/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/defman21--one-wayfilesync/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/qwin/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/defman21--autocompletefilesunderpath/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/qwin/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/toddw-as--alternativelocation/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/komodo-developer-extension/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/tenbits--jseval/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/komodo-developer-extension/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/defman21--backupsave/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/dom-inspector/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/smelzo--camelcase/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/dom-inspector/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/cgchoffman--sshcommands/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/exuberant-ctags-support/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/naatan--executeasphp/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/exuberant-ctags-support/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/toddw-as--bracewrapselection/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/tabswitcher/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/ivoryworks--markdownpreview/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/tabswitcher/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/naatan--selectbracecontents/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/klint/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/cgchoffman--worspacesaverestoretool/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/klint/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/cgchoffman--transpose/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/paster/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/toddw-as--sccannotate/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/paster/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/naatan--autoallmanbraces/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/perfect-python/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/cgchoffman--imgtagdimensions/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/perfect-python/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/toddw-as--swapassignment/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/sciviews-r/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/cgchoffman--byteorcharposition/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/sciviews-r/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/cgchoffman--createsnippetfromtext/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/element-inspector/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/toddw-as--copyfindresults/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/element-inspector/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/naatan--openterminalhere/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/kopyio-integration/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/toddw-as--variabledumper/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/kopyio-integration/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/cgchoffman--automagicsnippetsfromtext/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/todo-helper/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/toddw-as--wraptext/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/todo-helper/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/toddw-as--incrementalnumbering/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/autocode/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/naatan--phpdocandjsdoc/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/autocode/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/mahonnaise--csscolorpalette/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/side-by-side-diff/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/skins/komodo--abyss/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/side-by-side-diff/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/skins/komodo--spacemodo/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/dita/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/skins/defman21--paperskincompatibility/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/dita/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/skins/defman21--oceamodo/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/tabswitcher-revived/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/skins/defman21--atomik/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/tabswitcher-revived/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/skins/defman21--sublime/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/sciviews-k/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/skins/komodo--classic/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/sciviews-k/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/defman21--july2015monthlyflavour/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/emmet/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/defman21--komodoclassicschemes/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/emmet/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/defman21--flasty/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/remote-drive-tree/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/defman21--hopscotch/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/remote-drive-tree/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/defman21--freshcut/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/quick-diff/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/defman21--blue-soda/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/quick-diff/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/defman21--soda/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/xultris/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/defman21--espresso/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/xultris/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/defman21--afterdawn/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/addons/komodin-git/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/defman21--blueland/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/komodin-git/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/defman21--kisto/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/misc/russian-language/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/defman21--vilka/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/misc/russian-language/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/komodo--base16collection/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/misc/italian-translation/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/defman21--monokai/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/misc/italian-translation/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/detly--boron/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/misc/opscode-cookbook/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/defman21--spolsky/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/misc/opscode-cookbook/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/mihawk90--loco/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/macros/auto-toggle-panes/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/bdryanovski--monocai/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/macros/auto-toggle-panes/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/schemes/igstan--twilight/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/resources/macros/magicalhobos-macros/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/magicalhobos-macros/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/open-on-github/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/open-on-github/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/multi-row-editor-tabs/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/multi-row-editor-tabs/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/sort-open-tabs-by-full-path/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/sort-open-tabs-by-full-path/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/mark-text/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/mark-text/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/comment-toggle/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/comment-toggle/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/print-to-output-pane/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/print-to-output-pane/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/one-way-file-sync/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/one-way-file-sync/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/autocomplete-files-under-path/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/autocomplete-files-under-path/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/alternative-location/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/alternative-location/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/jseval/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/jseval/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/backup-save/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/backup-save/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/camelcase/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/camelcase/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/ssh-commands/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/ssh-commands/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/execute-as-php/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/execute-as-php/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/brace-wrap-selection/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/brace-wrap-selection/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/markdown-preview/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/markdown-preview/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/select-brace-contents/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/select-brace-contents/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/worspace-saverestore-tool/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/worspace-saverestore-tool/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/transpose/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/transpose/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/scc-annotate/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/scc-annotate/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/auto-allman-braces/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/auto-allman-braces/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/img-tag-dimensions/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/img-tag-dimensions/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/swap-assignment/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/swap-assignment/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/byte-or-char-position/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/byte-or-char-position/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/create-snippet-from-text/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/create-snippet-from-text/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/copy-find-results/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/copy-find-results/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/open-terminal-here/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/open-terminal-here/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/variable-dumper/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/variable-dumper/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/automagic-snippets-from-text/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/automagic-snippets-from-text/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/wrap-text/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/wrap-text/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/incremental-numbering/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/incremental-numbering/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/phpdoc-and-jsdoc/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/phpdoc-and-jsdoc/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/css-color-palette/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/css-color-palette/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/skins/abyss/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/skins/abyss/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/skins/spacemodo/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/skins/spacemodo/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/skins/paper-skin-compatibility/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/skins/paper-skin-compatibility/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/skins/oceamodo/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/skins/oceamodo/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/skins/atomik/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/skins/atomik/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/skins/sublime/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/skins/sublime/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/skins/classic/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/skins/classic/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/july2015monthlyflavour/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/july2015monthlyflavour/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/komodo-classic-schemes/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/komodo-classic-schemes/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/flasty/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/flasty/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/hopscotch/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/hopscotch/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/freshcut/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/freshcut/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/blue-soda/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/blue-soda/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/soda/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/soda/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/espresso/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/espresso/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/afterdawn/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/afterdawn/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/blueland/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/blueland/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/kisto/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/kisto/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/vilka/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/vilka/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/base16-collection/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/base16-collection/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/monokai/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/monokai/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/boron/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/boron/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/spolsky/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/spolsky/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/loco/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/loco/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/monocai/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/monocai/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/twilight/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/twilight/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/toolbox/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/addons/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/misc/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/keybinds/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/popular/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/skins/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/install-instructions/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/languages/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/submit-instructions/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/downloads/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -3283,104 +4087,104 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/pages/2/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/pages/2/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/pages/3/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/pages/3/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/pages/4/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/pages/4/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/pages/5/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/pages/5/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/pages/6/</loc>
-    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <loc>http://komodoide.com/packages/pages/6/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/pages/2/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <loc>http://komodoide.com/packages/addons/pages/2/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/popular/pages/2/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <loc>http://komodoide.com/packages/popular/pages/2/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/popular/pages/3/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <loc>http://komodoide.com/packages/popular/pages/3/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/popular/pages/4/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <loc>http://komodoide.com/packages/popular/pages/4/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/popular/pages/5/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <loc>http://komodoide.com/packages/popular/pages/5/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/popular/pages/6/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <loc>http://komodoide.com/packages/popular/pages/6/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/macros/pages/2/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <loc>http://komodoide.com/packages/macros/pages/2/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/downloads/pages/2/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <loc>http://komodoide.com/packages/downloads/pages/2/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/downloads/pages/3/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <loc>http://komodoide.com/packages/downloads/pages/3/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/downloads/pages/4/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <loc>http://komodoide.com/packages/downloads/pages/4/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/downloads/pages/5/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <loc>http://komodoide.com/packages/downloads/pages/5/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/downloads/pages/6/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <loc>http://komodoide.com/packages/downloads/pages/6/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
