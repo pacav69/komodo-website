@@ -6,111 +6,111 @@
         <link>http://komodoide.com/blog/</link>
         <language>en</language>
         <webMaster>support@activestate.com (ActiveState Support)</webMaster>
-        <lastBuildDate>Wed, 22 Jul 2015 09:57:55 -0700</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2015 10:12:50 -0700</lastBuildDate>
         <generator>Middleman 3.3.10</generator>
             <item>
                 <title>Komodo 9.2 Pre-Release Ready for Testing</title>
                 <link>http://komodoide.com/blog/komodo-9-2-pre-release-ready-for-testing</link>
                 <pubDate>Tue, 21 Jul 2015 17:00:00 -0700</pubDate>
-                <description> It's Komodo 9.</description>
+                <description> It's Komodo 9.2 pre-release time! We're coming to you with a ton of goodies this release, but we need you to help us test things out! Please read on to learn more about the changes [...]</description>
                 <guid>http://komodoide.com/blog/komodo-9-2-pre-release-ready-for-testing</guid>
             </item>
             <item>
                 <title>The Komodo in Cascadia(JS)</title>
                 <link>http://komodoide.com/blog/the-komodo-in-cascadia</link>
                 <pubDate>Sun, 19 Jul 2015 17:00:00 -0700</pubDate>
-                <description>From July 8th to 11th 2015, I was away from the office to attend a conference.  The office was in shambles without me (or so I'd like to think) but I did return and everything is back to normal.</description>
+                <description>From July 8th to 11th 2015, I was away from the office to attend a conference.  The office was in shambles without me (or so I'd like to think) but I did return and everything is back to normal. I went to the conference in Washington state [...]</description>
                 <guid>http://komodoide.com/blog/the-komodo-in-cascadia</guid>
             </item>
             <item>
                 <title>Focus Mode (aka Distraction Free Mode) in Komodo</title>
                 <link>http://komodoide.com/blog/focus-mode-aka-distraction-free-mode-in-komodo</link>
                 <pubDate>Mon, 13 Jul 2015 17:00:00 -0700</pubDate>
-                <description> I really like working with Komodo when it's at its absolute simplest UI configuration. I generally turn off everything except the editor, then use Commando to navigate my way around.</description>
+                <description> I really like working with Komodo when it's at its absolute simplest UI configuration. I generally turn off everything except the editor, then use Commando to navigate my way around [...]</description>
                 <guid>http://komodoide.com/blog/focus-mode-aka-distraction-free-mode-in-komodo</guid>
             </item>
             <item>
                 <title>EditorConfig Your Komodo</title>
                 <link>http://komodoide.com/blog/editorconfig-your-komodo</link>
                 <pubDate>Mon, 6 Jul 2015 17:00:00 -0700</pubDate>
-                <description> Ever heard of EditorConfig? We sure have. Numerous requests have come in for us to add support, on our bug tracker, our forums and even in person (we still have the stickers).</description>
+                <description> Ever heard of EditorConfig? We sure have. Numerous requests have come in for us to add support, on our bug tracker, our forums and even in person (we still have the stickers) [...]</description>
                 <guid>http://komodoide.com/blog/editorconfig-your-komodo</guid>
             </item>
             <item>
                 <title>Quickly Run Shell Commands with Komodo IDE</title>
                 <link>http://komodoide.com/blog/quickly-run-shell-commands-with-komodo-ide</link>
                 <pubDate>Mon, 22 Jun 2015 17:00:00 -0700</pubDate>
-                <description> With Komodo 9.1 we've added a new shell scope, which facilitates our new package  managers integration. But you can also use it simply to run shell commands.</description>
+                <description> With Komodo 9.1 we've added a new shell scope, which facilitates our new package  managers integration. But you can also use it simply to run shell commands. Of course you could already do this using the `Tools > Run Command` dialog [...]</description>
                 <guid>http://komodoide.com/blog/quickly-run-shell-commands-with-komodo-ide</guid>
             </item>
             <item>
                 <title>Using Custom Workspaces with Komodo 9.1</title>
                 <link>http://komodoide.com/blog/using-custom-workspaces-with-komodo-9-1</link>
                 <pubDate>Wed, 10 Jun 2015 17:00:00 -0700</pubDate>
-                <description>!Komodo Custom Workspaces Recently we released Komodo 9.1 and with it we added some powerful new features such as Commando Package Manager and Shell scope.   I worked on a tool to help our users more quickly get back to work.</description>
+                <description>!Komodo Custom Workspaces Recently we released Komodo 9.1 and with it we added some powerful new features such as Commando Package Manager and Shell scope.   I worked on a tool to help our users more quickly get back to work [...]</description>
                 <guid>http://komodoide.com/blog/using-custom-workspaces-with-komodo-9-1</guid>
             </item>
             <item>
                 <title>Package Management at Your Fingertips in Komodo 9.1</title>
                 <link>http://komodoide.com/blog/package-management-at-your-fingertips-in-komodo-9-1</link>
                 <pubDate>Mon, 8 Jun 2015 17:00:00 -0700</pubDate>
-                <description> One of our big features in 9.1 is package management; you can easily install your project dependencies just by invoking Commando and installing the package you are in need of.</description>
+                <description> One of our big features in 9.1 is package management; you can easily install your project dependencies just by invoking Commando and installing the package you are in need of [...]</description>
                 <guid>http://komodoide.com/blog/package-management-at-your-fingertips-in-komodo-9-1</guid>
             </item>
             <item>
                 <title>Package Managers, Shell Commands & Workspaces - Introducing Komodo 9.1</title>
                 <link>http://komodoide.com/blog/package-managers-shell-commands-and-workspaces-introducting-komodo-9-1</link>
                 <pubDate>Mon, 1 Jun 2015 17:00:00 -0700</pubDate>
-                <description>We've been busy - very busy. Roughly 2 months after Komodo 9.0 and a month after 9.0.1, we're introducing Komodo 9.1. To say we're committed is an understatement. You can download the latest Komodo 9.1 release from our Download section.</description>
+                <description>We've been busy - very busy. Roughly 2 months after Komodo 9.0 and a month after 9.0.1, we're introducing Komodo 9.1. To say we're committed is an understatement. You can download the latest Komodo 9.1 release from our Download section [...]</description>
                 <guid>http://komodoide.com/blog/package-managers-shell-commands-and-workspaces-introducting-komodo-9-1</guid>
             </item>
             <item>
                 <title>Komodo 9.1 Pre-Release Now Available</title>
                 <link>http://komodoide.com/blog/komodo-9-1-pre-release-now-available</link>
                 <pubDate>Thu, 21 May 2015 17:00:00 -0700</pubDate>
-                <description> We're very happy to announce the pre-release of Komodo 9.1. This release primarily focuses on Commando, and its all-new package management functionality.</description>
+                <description> We're very happy to announce the pre-release of Komodo 9.1. This release primarily focuses on Commando, and its all-new package management functionality [...]</description>
                 <guid>http://komodoide.com/blog/komodo-9-1-pre-release-now-available</guid>
             </item>
             <item>
                 <title>Go For Pythonistas</title>
                 <link>http://komodoide.com/blog/go-for-pythonistas</link>
                 <pubDate>Tue, 19 May 2015 17:00:00 -0700</pubDate>
-                <description> As you may know, we've recently added Golang support in Komodo IDE 9.</description>
+                <description> As you may know, we've recently added Golang support in Komodo IDE 9. You asked for it, you got it! Go is a statically-typed language with syntax loosely derived from C, with added garbage collection, type safety [...]</description>
                 <guid>http://komodoide.com/blog/go-for-pythonistas</guid>
             </item>
             <item>
                 <title>Komodo IDE for Teams + Bonus Coffee Offer</title>
                 <link>http://komodoide.com/blog/komodo-ide-for-teams-bonus-coffee-offer</link>
                 <pubDate>Tue, 12 May 2015 17:00:00 -0700</pubDate>
-                <description> When you're working on a project on your own, the power of Komodo IDE is obvious in the features: code intelligence, debugging, version control, great workflow and file management, and extensibility.</description>
+                <description> When you're working on a project on your own, the power of Komodo IDE is obvious in the features: code intelligence, debugging, version control, great workflow and file management, and extensibility. The newest track changes [...]</description>
                 <guid>http://komodoide.com/blog/komodo-ide-for-teams-bonus-coffee-offer</guid>
             </item>
             <item>
                 <title>Komodo - Your New Markdown Editor</title>
                 <link>http://komodoide.com/blog/komodo-your-new-markdown-editor</link>
                 <pubDate>Wed, 29 Apr 2015 17:00:00 -0700</pubDate>
-                <description>We've already talked about Commando and Track Changes; today I'm giving you a quick demo of the new Markdown Viewer in Komodo.</description>
+                <description>We've already talked about Commando and Track Changes; today I'm giving you a quick demo of the new Markdown Viewer in Komodo [...]</description>
                 <guid>http://komodoide.com/blog/komodo-your-new-markdown-editor</guid>
             </item>
             <item>
                 <title>Komodo Sale Ends Tomorrow</title>
                 <link>http://komodoide.com/blog/komodo-sale-ends-tomorrow</link>
                 <pubDate>Tue, 28 Apr 2015 17:00:00 -0700</pubDate>
-                <description> This is just a gentle reminder that **Komodo IDE is on sale** at amazing prices, but only until midnight tomorrow (April 30th).</description>
+                <description> This is just a gentle reminder that **Komodo IDE is on sale** at amazing prices, but only until midnight tomorrow (April 30th). Pick up your copy of Komodo IDE and save on new single or 5-pack bundles of licenses: until April 30 [...]</description>
                 <guid>http://komodoide.com/blog/komodo-sale-ends-tomorrow</guid>
             </item>
             <item>
                 <title>Random Hacks of Kindness - True Community Love</title>
                 <link>http://komodoide.com/blog/random-hacks-of-kindness-true-community-love</link>
                 <pubDate>Mon, 27 Apr 2015 17:00:00 -0700</pubDate>
-                <description>ActiveState recently sponsored a lunch for the entire group that participated in the Vancouver Chapter's Random Hacks of Kindness - a movement that is very close to my heart.</description>
+                <description>ActiveState recently sponsored a lunch for the entire group that participated in the Vancouver Chapter's Random Hacks of Kindness - a movement that is very close to my heart. That was lunch for 65 people doing amazing [...]</description>
                 <guid>http://komodoide.com/blog/random-hacks-of-kindness-true-community-love</guid>
             </item>
             <item>
                 <title>Komodo IDE: 80's Tunes to Code By</title>
                 <link>http://komodoide.com/blog/komodo-ide-80-s-tunes-to-code-by</link>
                 <pubDate>Thu, 23 Apr 2015 17:00:00 -0700</pubDate>
-                <description> It's Friday, so please allow me some indulgence. A child of the eighties (Err... Well, maybe nineties... A lady never tells!) I've been going through my playlists today, "rocking out" to some of the great 80's classics.</description>
+                <description> It's Friday, so please allow me some indulgence. A child of the eighties (Err... Well, maybe nineties... A lady never tells!) I've been going through my playlists today, "rocking out" to some of the great 80's classics [...]</description>
                 <guid>http://komodoide.com/blog/komodo-ide-80-s-tunes-to-code-by</guid>
             </item>
     </channel>
