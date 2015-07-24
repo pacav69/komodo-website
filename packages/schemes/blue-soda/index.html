@@ -132,9 +132,11 @@
     </div>
 </header>
 
-            <div id="content" class="sidebar sidebar-small document-resource">
+            <div id="content" class="sidebar sidebar-left document-resource">
     <section role="main">
         <article class="normalize">
+
+<!-- Start Content -->
 
 <ul class="trail">
     <li>
@@ -161,109 +163,94 @@
     </div>
 </div>
 
-<h1>Blue-Soda</h1>
 
-<p class="description">Blue-Soda color scheme for Komodo 9</p>
+<style type="text/css">
 
-<div class="details-meta">
-    <h2>Details</h2>
-    <dl>
-        <dt>Author</dt>
-        <dd>
-            <a href="https://github.com/Defman21" class="push-left preview">
-                <img src="https://avatars.githubusercontent.com/u/7100645?v=3?s=18">
-            </a>
-            <a href="https://github.com/Defman21">
-                <span>Defman21</span>
-            </a>
-        </dd>
-        
-        <dt>Version</dt>
-        <dd>
-            <span>
-                Blue-Soda scheme
-            </span>
-            <a href="https://github.com/Defman21/blue-soda-komodo/releases/tag/v1.0">view</a>
-        </dd>
+#scheme-preview pre code
+{
+    background: #222222;
+    color: #ffffff;
+}
 
-        <dt>Created</dt>
-        <dd title="2015-02-20T09:24:47Z">
-            22 weeks ago
-        </dd>
-
-        <dt>Updated</dt>
-        <dd title="2015-02-20T09:50:46Z">
-            22 weeks ago
-        </dd>
+#python .hl-keyword { color: #6fc7f6 }
+#python .ko-keyword { color: #6fc7f6 }
+#python .hl-string { color: #c7c7c7 }
+#python .hl-class .hl-title { color: #ffffff }
+#python .hl-function .hl-title { color: #ffffff }
+#python .hl-function .hl-params { color: #ffffff }
+#python .hl-comment { color: #515151 }
+#python .ko-operator { color: #ffffff }
+#python .hl-number { color: #08e8c1 }
 
 
-        <dt>Github</dt>
-        <dd>
-            <a href="https://github.com/Defman21/blue-soda-komodo">
-                    Defman21/blue-soda-komodo
-            </a>
-        </dd>
+#php .hl-keyword { color: #6fc7f6 }
+#php .ko-keyword { color: #6fc7f6 }
+#php .hl-string { color: #c7c7c7 }
+#php .hl-class .hl-title { color: #ffffff }
+#php .hl-function .hl-title { color: #ffffff }
+#php .hl-function .hl-params { color: #ffffff }
+#php .hl-comment { color: #515151 }
+#php .ko-operator { color: #ffffff }
+#php .hl-variable { color: #728e9c }
+#php .hl-number { color: #08e8c1 }
+</style>
 
-        <dt>Issues</dt>
-        <dd>
-            <span>0</span>
-            <a href="https://github.com/Defman21/blue-soda-komodo/issues">view</a>
-        </dd>
-
-        <dt>Wiki</dt>
-        <dd>
-            <a href="https://github.com/Defman21/blue-soda-komodo/wiki">view</a>
-        </dd>
-
-        <dt>Downloads</dt>
-        <dd>
-            <span>167</span>
-            <a href="https://github.com/Defman21/blue-soda-komodo/releases">view</a>
-        </dd>
+<div id="scheme-preview" class="tabs">
+    <pre id="python"><code>
+import math
+class Class:
+    """ this is a docstring """
+    def __init__(self, arg): # one line comment
+        self.x = arg + math.cos(arg + arg)
+        s = 'a string'
     
-        <dt>Stars</dt>
-        <dd>
-            <span>0</span>
-            <a href="https://github.com/Defman21/blue-soda-komodo/stargazers">view</a>
-        </dd>
-    </dl>
-</div>
+    def display(self, value):
+        print value
+        
+    def increment(self, value):
+        value = value + 1
+        print value
+    
+xyz = Class('foo')
+xyz.increment(10)
+    </code></pre>
+    
+    <pre id="php" style="display: none"><code>
+&lt;?php
+class foo {
+    // a comment
+    var $a;
+    var $b;
+    function display() {
+        echo "This is class foo";
+        echo "a = ".$this-&gt;a."";
+        echo "b = {$this-&gt;b}";
+    }
+    function mul() {
+        return $this-&gt;a*$this-&gt;b;
+    }
+};
 
-<div class="download">
-    <h2>Download</h2>
-        <div class="releases">
-        <!-- release = resource.releases.each_with_index() do |release,k| -->
-            <div class="release  0" id="release-970815">
-                <p></p>
-                <div class="files centered">
-                       <div class="assets">
-                               <div>
-                               <a href="https://github.com/Defman21/blue-soda-komodo/releases/download/v1.0/Blue-Soda.ksf" class="button big primary">
-                                   <i class="icon icon-download"></i>
-                                   Download "Blue-Soda.ksf"
-                               </a>
-                               </div>
-                       </div>
-                   <div class="source">
-                       <a href="https://github.com/Defman21/blue-soda-komodo/archive/Blue-Soda scheme.zip" class="button">
-                           <i class="icon icon-download"></i>
-                           Download Source
-                       </a>
-                   </div>
-                </div>
-            </div>
-        </div>
-</div>
-
-<div class="clearfix"></div>
-
-<div class="tabs">
-    <ul>
-        <li><a href="#readme">Readme</a></li>
-        <li><a href="#comments">Comments</a></li>
+$foo1 = new foo;
+$foo1-&gt;a = 2;
+$foo1-&gt;b = 5;
+$foo1-&gt;display();
+echo $foo1-&gt;mul()."";
+    </code></pre>
+    
+    <ul id="scheme-preview-selector">
+        <li>
+            <a href="#python">Python</a>
+        </li>
+        <li>
+            <a href="#php">PHP</a>
+        </li>
     </ul>
-        <div id="readme" class="readme user-input">
-        <h1>Description</h1>
+</div>
+<hr/>
+
+    <div id="readme" class="readme user-input">
+    <h1>Description</h1>
 
 <p>Blue-Soda color scheme for Komodo 9.</p>
 
@@ -280,13 +267,10 @@
 
 <p><a href="https://github.com/Defman21/blue-soda-komodo/blob/master/ht"tps://bitbucket.org/DanielSiepmann/color-scheme-nice-blue-soda">Original author</a></p>
 
-        </div>
-    <div id="comments" class="comments">
-        <p>
-            Please note that the comment section is not a reliable resource for
-            support.
-        </p>
-        <hr>
+    </div>
+
+<div id="comments" class="comments">
+    <hr>
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -303,8 +287,9 @@
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
-    </div>
 </div>
+
+<!-- End Content -->
 
         </article>
     </section>
@@ -315,85 +300,101 @@
             <i class="icon icon-chevron-right"></i>
         </button>
         <div class="inner">
-            <ul class="categories">
-    <li>
-        <h3>
-            <a href="/packages">All Packages</a>
-        </h3>
-    </li>
-    <li>
-        <h3>
-            <a href="/packages/popular">Most Popular</a>
-        </h3>
-    </li>
-    <li>
-        <h3>
-            <a href="/packages/downloads">Most Downloaded</a>
-        </h3>
-    </li>
-</ul>
+<!-- Start Sidebar -->
 
-<hr>
+<div class="download">
+        <div class="releases">
+        <!-- release = resource.releases.each_with_index() do |release,k| -->
+            <div class="release  0" id="release-970815">
+                <div class="files centered">
+                       <div class="assets">
+                               <div>
+                               <a href="https://github.com/Defman21/blue-soda-komodo/releases/download/v1.0/Blue-Soda.ksf" class="button big primary">
+                                   <i class="icon icon-download"></i>
+                                   Download
+                               </a>
+                               </div>
+                       </div>
+                   <div class="source">
+                       <a href="https://github.com/Defman21/blue-soda-komodo/archive/Blue-Soda scheme.zip" class="button">
+                           <i class="icon icon-download"></i>
+                           Download Source
+                       </a>
+                   </div>
+                </div>
+            </div>
+        </div>
+</div>
+        
+        <div class="spacer"></div>
 
-<ul class="categories">
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/addons">Addons</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/macros">Macros</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/toolbox">Toolbox</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/schemes">Color Schemes</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/skins">Skins</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/languages">Languages</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/keybinds">Keybindings</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/misc">Miscellaneous</a>
-            </h3>
-        </li>
-</ul>
+<div class="details-meta">
+    <dl>
+        <dt>
+            <i class="icon icon-user"></i>
+        </dt>
+        <dd>
+            <a href="https://github.com/Defman21">
+                <span>Defman21</span>
+            </a>
+            <a href="https://github.com/Defman21" class="preview">
+                <img src="https://avatars.githubusercontent.com/u/7100645?v=3?s=18">
+            </a>
+        </dd>
+        
 
-<hr>
+        <dt>
+            <i class="icon icon-github"></i>
+        </dt>
+        <dd>
+            <a href="https://github.com/Defman21/blue-soda-komodo">
+                    Defman21/blue-soda-komodo
+            </a>
+        </dd>
+    
+        <dt>
+            <i class="icon icon-clock-o"></i>
+        </dt>
+        <dd title="2015-02-20T09:50:46Z">
+            Updated 22 weeks ago
+        </dd>
+        
+        <dt>
+            <i class="icon icon-code-fork"></i>
+        </dt>
+        <dd>
+            <a href="https://github.com/Defman21/blue-soda-komodo/releases/tag/v1.0">
+                Version 
+                v1.0
+            </a>
+        </dd>
 
-<h2>How To ..</h2>
+        <dt>
+            <i class="icon icon-bug"></i>
+        </dt>
+        <dd>
+            <a href="https://github.com/Defman21/blue-soda-komodo/issues">
+                0 issues
+            </a>
+        </dd>
 
-<ul class="disc">
-    <li>
-        <a href="http://komodoide.com/packages/install-instructions">Install Packages</a>
-    </li>
-    <li>
-        <a href="http://komodoide.com/packages/submit-instructions#pane-packages">Submit a Package</a>
-    </li>
-    <li>
-        <a href="http://komodoide.com/customize">Customize Komodo</a>
-    </li>
-</ul>
+        <dt>
+            <i class="icon icon-cloud-download"></i>
+        </dt>
+        <dd>
+            <span>175 downloads</span>
+        </dd>
+    
+        <dt>
+            <i class="icon icon-star"></i>
+        </dt>
+        <dd>
+            <span>0 stars</span>
+        </dd>
+    </dl>
+</div>
 
+<!-- End Sidebar -->
         </div>
     </aside>
 </div>

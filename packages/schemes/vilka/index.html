@@ -132,9 +132,11 @@
     </div>
 </header>
 
-            <div id="content" class="sidebar sidebar-small document-resource">
+            <div id="content" class="sidebar sidebar-left document-resource">
     <section role="main">
         <article class="normalize">
+
+<!-- Start Content -->
 
 <ul class="trail">
     <li>
@@ -161,109 +163,94 @@
     </div>
 </div>
 
-<h1>Vilka</h1>
 
-<p class="description">Port of Brackets color scheme for Komodo</p>
+<style type="text/css">
 
-<div class="details-meta">
-    <h2>Details</h2>
-    <dl>
-        <dt>Author</dt>
-        <dd>
-            <a href="https://github.com/Defman21" class="push-left preview">
-                <img src="https://avatars.githubusercontent.com/u/7100645?v=3?s=18">
-            </a>
-            <a href="https://github.com/Defman21">
-                <span>Defman21</span>
-            </a>
-        </dd>
-        
-        <dt>Version</dt>
-        <dd>
-            <span>
-                
-            </span>
-            <a href="https://github.com/Defman21/vilka-komodo/releases/tag/1.0">view</a>
-        </dd>
+#scheme-preview pre code
+{
+    background: #f8f8f8;
+    color: #535353;
+}
 
-        <dt>Created</dt>
-        <dd title="2014-08-05T20:44:55Z">
-            50 weeks ago
-        </dd>
-
-        <dt>Updated</dt>
-        <dd title="2014-12-09T09:50:11Z">
-            32 weeks ago
-        </dd>
+#python .hl-keyword { color: #446fbd }
+#python .ko-keyword { color: #bf616a }
+#python .hl-string { color: #f18900 }
+#python .hl-class .hl-title { color: #ebcb8b }
+#python .hl-function .hl-title { color: #8fa1b3 }
+#python .hl-function .hl-params { color: #535353 }
+#python .hl-comment { color: #949494 }
+#python .ko-operator { color: #535353 }
+#python .hl-number { color: #738d00 }
 
 
-        <dt>Github</dt>
-        <dd>
-            <a href="https://github.com/Defman21/vilka-komodo">
-                    Defman21/vilka-komodo
-            </a>
-        </dd>
+#php .hl-keyword { color: #446fbd }
+#php .ko-keyword { color: #bf616a }
+#php .hl-string { color: #f18900 }
+#php .hl-class .hl-title { color: #8757ad }
+#php .hl-function .hl-title { color: #8757ad }
+#php .hl-function .hl-params { color: #535353 }
+#php .hl-comment { color: #949494 }
+#php .ko-operator { color: #535353 }
+#php .hl-variable { color: #bf616a }
+#php .hl-number { color: #738d00 }
+</style>
 
-        <dt>Issues</dt>
-        <dd>
-            <span>0</span>
-            <a href="https://github.com/Defman21/vilka-komodo/issues">view</a>
-        </dd>
-
-        <dt>Wiki</dt>
-        <dd>
-            <a href="https://github.com/Defman21/vilka-komodo/wiki">view</a>
-        </dd>
-
-        <dt>Downloads</dt>
-        <dd>
-            <span>667</span>
-            <a href="https://github.com/Defman21/vilka-komodo/releases">view</a>
-        </dd>
+<div id="scheme-preview" class="tabs">
+    <pre id="python"><code>
+import math
+class Class:
+    """ this is a docstring """
+    def __init__(self, arg): # one line comment
+        self.x = arg + math.cos(arg + arg)
+        s = 'a string'
     
-        <dt>Stars</dt>
-        <dd>
-            <span>1</span>
-            <a href="https://github.com/Defman21/vilka-komodo/stargazers">view</a>
-        </dd>
-    </dl>
-</div>
+    def display(self, value):
+        print value
+        
+    def increment(self, value):
+        value = value + 1
+        print value
+    
+xyz = Class('foo')
+xyz.increment(10)
+    </code></pre>
+    
+    <pre id="php" style="display: none"><code>
+&lt;?php
+class foo {
+    // a comment
+    var $a;
+    var $b;
+    function display() {
+        echo "This is class foo";
+        echo "a = ".$this-&gt;a."";
+        echo "b = {$this-&gt;b}";
+    }
+    function mul() {
+        return $this-&gt;a*$this-&gt;b;
+    }
+};
 
-<div class="download">
-    <h2>Download</h2>
-        <div class="releases">
-        <!-- release = resource.releases.each_with_index() do |release,k| -->
-            <div class="release  0" id="release-472971">
-                <p>Initial commit</p>
-                <div class="files centered">
-                       <div class="assets">
-                               <div>
-                               <a href="https://github.com/Defman21/vilka-komodo/releases/download/1.0/Brackets.ksf" class="button big primary">
-                                   <i class="icon icon-download"></i>
-                                   Download "Brackets.ksf"
-                               </a>
-                               </div>
-                       </div>
-                   <div class="source">
-                       <a href="https://github.com/Defman21/vilka-komodo/archive/.zip" class="button">
-                           <i class="icon icon-download"></i>
-                           Download Source
-                       </a>
-                   </div>
-                </div>
-            </div>
-        </div>
-</div>
-
-<div class="clearfix"></div>
-
-<div class="tabs">
-    <ul>
-        <li><a href="#readme">Readme</a></li>
-        <li><a href="#comments">Comments</a></li>
+$foo1 = new foo;
+$foo1-&gt;a = 2;
+$foo1-&gt;b = 5;
+$foo1-&gt;display();
+echo $foo1-&gt;mul()."";
+    </code></pre>
+    
+    <ul id="scheme-preview-selector">
+        <li>
+            <a href="#python">Python</a>
+        </li>
+        <li>
+            <a href="#php">PHP</a>
+        </li>
     </ul>
-        <div id="readme" class="readme user-input">
-        <h1>Description</h1>
+</div>
+<hr/>
+
+    <div id="readme" class="readme user-input">
+    <h1>Description</h1>
 
 <p>It&#39;s a default color scheme from Brackets editor by Adobe.
 It works on any Komodo release.</p>
@@ -273,13 +260,10 @@ It works on any Komodo release.</p>
 <p>Easy method: Drag&#39;n&#39;drop <code>Brackets.ksf</code> on the Komodo window.
 Hard method: Find your Komodo profile folder and place <code>Brackets.ksf</code> to <code>schemes/</code> folder.</p>
 
-        </div>
-    <div id="comments" class="comments">
-        <p>
-            Please note that the comment section is not a reliable resource for
-            support.
-        </p>
-        <hr>
+    </div>
+
+<div id="comments" class="comments">
+    <hr>
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -296,8 +280,9 @@ Hard method: Find your Komodo profile folder and place <code>Brackets.ksf</code>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
-    </div>
 </div>
+
+<!-- End Content -->
 
         </article>
     </section>
@@ -308,85 +293,101 @@ Hard method: Find your Komodo profile folder and place <code>Brackets.ksf</code>
             <i class="icon icon-chevron-right"></i>
         </button>
         <div class="inner">
-            <ul class="categories">
-    <li>
-        <h3>
-            <a href="/packages">All Packages</a>
-        </h3>
-    </li>
-    <li>
-        <h3>
-            <a href="/packages/popular">Most Popular</a>
-        </h3>
-    </li>
-    <li>
-        <h3>
-            <a href="/packages/downloads">Most Downloaded</a>
-        </h3>
-    </li>
-</ul>
+<!-- Start Sidebar -->
 
-<hr>
+<div class="download">
+        <div class="releases">
+        <!-- release = resource.releases.each_with_index() do |release,k| -->
+            <div class="release  0" id="release-472971">
+                <div class="files centered">
+                       <div class="assets">
+                               <div>
+                               <a href="https://github.com/Defman21/vilka-komodo/releases/download/1.0/Brackets.ksf" class="button big primary">
+                                   <i class="icon icon-download"></i>
+                                   Download
+                               </a>
+                               </div>
+                       </div>
+                   <div class="source">
+                       <a href="https://github.com/Defman21/vilka-komodo/archive/.zip" class="button">
+                           <i class="icon icon-download"></i>
+                           Download Source
+                       </a>
+                   </div>
+                </div>
+            </div>
+        </div>
+</div>
+        
+        <div class="spacer"></div>
 
-<ul class="categories">
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/addons">Addons</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/macros">Macros</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/toolbox">Toolbox</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/schemes">Color Schemes</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/skins">Skins</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/languages">Languages</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/keybinds">Keybindings</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/misc">Miscellaneous</a>
-            </h3>
-        </li>
-</ul>
+<div class="details-meta">
+    <dl>
+        <dt>
+            <i class="icon icon-user"></i>
+        </dt>
+        <dd>
+            <a href="https://github.com/Defman21">
+                <span>Defman21</span>
+            </a>
+            <a href="https://github.com/Defman21" class="preview">
+                <img src="https://avatars.githubusercontent.com/u/7100645?v=3?s=18">
+            </a>
+        </dd>
+        
 
-<hr>
+        <dt>
+            <i class="icon icon-github"></i>
+        </dt>
+        <dd>
+            <a href="https://github.com/Defman21/vilka-komodo">
+                    Defman21/vilka-komodo
+            </a>
+        </dd>
+    
+        <dt>
+            <i class="icon icon-clock-o"></i>
+        </dt>
+        <dd title="2014-12-09T09:50:11Z">
+            Updated 32 weeks ago
+        </dd>
+        
+        <dt>
+            <i class="icon icon-code-fork"></i>
+        </dt>
+        <dd>
+            <a href="https://github.com/Defman21/vilka-komodo/releases/tag/1.0">
+                Version 
+                1.0
+            </a>
+        </dd>
 
-<h2>How To ..</h2>
+        <dt>
+            <i class="icon icon-bug"></i>
+        </dt>
+        <dd>
+            <a href="https://github.com/Defman21/vilka-komodo/issues">
+                0 issues
+            </a>
+        </dd>
 
-<ul class="disc">
-    <li>
-        <a href="http://komodoide.com/packages/install-instructions">Install Packages</a>
-    </li>
-    <li>
-        <a href="http://komodoide.com/packages/submit-instructions#pane-packages">Submit a Package</a>
-    </li>
-    <li>
-        <a href="http://komodoide.com/customize">Customize Komodo</a>
-    </li>
-</ul>
+        <dt>
+            <i class="icon icon-cloud-download"></i>
+        </dt>
+        <dd>
+            <span>676 downloads</span>
+        </dd>
+    
+        <dt>
+            <i class="icon icon-star"></i>
+        </dt>
+        <dd>
+            <span>1 stars</span>
+        </dd>
+    </dl>
+</div>
 
+<!-- End Sidebar -->
         </div>
     </aside>
 </div>

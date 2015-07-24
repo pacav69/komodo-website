@@ -132,9 +132,11 @@
     </div>
 </header>
 
-            <div id="content" class="sidebar sidebar-small document-resource">
+            <div id="content" class="sidebar sidebar-left document-resource">
     <section role="main">
         <article class="normalize">
+
+<!-- Start Content -->
 
 <ul class="trail">
     <li>
@@ -161,121 +163,94 @@
     </div>
 </div>
 
-<h1>Atomik</h1>
 
-<p class="description">Atomik is a pack of flat dark and light skins for Komodo 9</p>
+<style type="text/css">
 
-<div class="details-meta">
-    <h2>Details</h2>
-    <dl>
-        <dt>Author</dt>
-        <dd>
-            <a href="https://github.com/Defman21" class="push-left preview">
-                <img src="https://avatars.githubusercontent.com/u/7100645?v=3?s=18">
-            </a>
-            <a href="https://github.com/Defman21">
-                <span>Defman21</span>
-            </a>
-        </dd>
-        
-        <dt>Version</dt>
-        <dd>
-            <span>
-                Atomik v1.0
-            </span>
-            <a href="https://github.com/Defman21/atomik-komodo/releases/tag/v1.0">view</a>
-        </dd>
+#scheme-preview pre code
+{
+    background: #1d1f20;
+    color: #f8f8f2;
+}
 
-        <dt>Created</dt>
-        <dd title="2015-02-09T13:14:15Z">
-            23 weeks ago
-        </dd>
-
-        <dt>Updated</dt>
-        <dd title="2015-02-09T13:21:21Z">
-            23 weeks ago
-        </dd>
+#python .hl-keyword { color: #8ecbfe }
+#python .ko-keyword { color: #8ecbfe }
+#python .hl-string { color: #9fff60 }
+#python .hl-class .hl-title { color: #ffffac }
+#python .hl-function .hl-title { color: #f8f8f2 }
+#python .hl-function .hl-params { color: #f8f8f2 }
+#python .hl-comment { color: #737c7c }
+#python .ko-operator { color: #f8f8f2 }
+#python .hl-number { color: #ff73fd }
 
 
-        <dt>Github</dt>
-        <dd>
-            <a href="https://github.com/Defman21/atomik-komodo">
-                    Defman21/atomik-komodo
-            </a>
-        </dd>
+#php .hl-keyword { color: #8ecbfe }
+#php .ko-keyword { color: #8ecbfe }
+#php .hl-string { color: #9fff60 }
+#php .hl-class .hl-title { color: #f8f8f2 }
+#php .hl-function .hl-title { color: #f8f8f2 }
+#php .hl-function .hl-params { color: #f8f8f2 }
+#php .hl-comment { color: #737c7c }
+#php .ko-operator { color: #f8f8f2 }
+#php .hl-variable { color: #c8c5ff }
+#php .hl-number { color: #ff73fd }
+</style>
 
-        <dt>Issues</dt>
-        <dd>
-            <span>1</span>
-            <a href="https://github.com/Defman21/atomik-komodo/issues">view</a>
-        </dd>
-
-        <dt>Wiki</dt>
-        <dd>
-            <a href="https://github.com/Defman21/atomik-komodo/wiki">view</a>
-        </dd>
-
-        <dt>Downloads</dt>
-        <dd>
-            <span>848</span>
-            <a href="https://github.com/Defman21/atomik-komodo/releases">view</a>
-        </dd>
+<div id="scheme-preview" class="tabs">
+    <pre id="python"><code>
+import math
+class Class:
+    """ this is a docstring """
+    def __init__(self, arg): # one line comment
+        self.x = arg + math.cos(arg + arg)
+        s = 'a string'
     
-        <dt>Stars</dt>
-        <dd>
-            <span>0</span>
-            <a href="https://github.com/Defman21/atomik-komodo/stargazers">view</a>
-        </dd>
-    </dl>
-</div>
+    def display(self, value):
+        print value
+        
+    def increment(self, value):
+        value = value + 1
+        print value
+    
+xyz = Class('foo')
+xyz.increment(10)
+    </code></pre>
+    
+    <pre id="php" style="display: none"><code>
+&lt;?php
+class foo {
+    // a comment
+    var $a;
+    var $b;
+    function display() {
+        echo "This is class foo";
+        echo "a = ".$this-&gt;a."";
+        echo "b = {$this-&gt;b}";
+    }
+    function mul() {
+        return $this-&gt;a*$this-&gt;b;
+    }
+};
 
-<div class="download">
-    <h2>Download</h2>
-        <div class="releases">
-        <!-- release = resource.releases.each_with_index() do |release,k| -->
-            <div class="release  0" id="release-932784">
-                <p></p>
-                <div class="files centered">
-                       <div class="assets">
-                               <div>
-                               <a href="https://github.com/Defman21/atomik-komodo/releases/download/v1.0/atomik-1.0-ko.xpi" class="button big primary">
-                                   <i class="icon icon-download"></i>
-                                   Download "atomik-1.0-ko.xpi"
-                               </a>
-                               </div>
-                               <div>
-                               <a href="https://github.com/Defman21/atomik-komodo/releases/download/v1.0/Dark_scheme.ksf" class="button big primary">
-                                   <i class="icon icon-download"></i>
-                                   Download "Dark_scheme.ksf"
-                               </a>
-                               </div>
-                               <div>
-                               <a href="https://github.com/Defman21/atomik-komodo/releases/download/v1.0/Light_scheme.ksf" class="button big primary">
-                                   <i class="icon icon-download"></i>
-                                   Download "Light_scheme.ksf"
-                               </a>
-                               </div>
-                       </div>
-                   <div class="source">
-                       <a href="https://github.com/Defman21/atomik-komodo/archive/Atomik v1.0.zip" class="button">
-                           <i class="icon icon-download"></i>
-                           Download Source
-                       </a>
-                   </div>
-                </div>
-            </div>
-        </div>
-</div>
-
-<div class="clearfix"></div>
-
-<div class="tabs">
-    <ul>
-        <li><a href="#readme">Readme</a></li>
-        <li><a href="#comments">Comments</a></li>
+$foo1 = new foo;
+$foo1-&gt;a = 2;
+$foo1-&gt;b = 5;
+$foo1-&gt;display();
+echo $foo1-&gt;mul()."";
+    </code></pre>
+    
+    <ul id="scheme-preview-selector">
+        <li>
+            <a href="#python">Python</a>
+        </li>
+        <li>
+            <a href="#php">PHP</a>
+        </li>
     </ul>
-        <div id="readme" class="readme user-input">
-        <h1>Description</h1>
+</div>
+<hr/>
+
+    <div id="readme" class="readme user-input">
+    <h1>Description</h1>
 
 <p>Atomik Skins for Komodo</p>
 
@@ -300,13 +275,10 @@
 <li>1.0 - first release</li>
 </ul>
 
-        </div>
-    <div id="comments" class="comments">
-        <p>
-            Please note that the comment section is not a reliable resource for
-            support.
-        </p>
-        <hr>
+    </div>
+
+<div id="comments" class="comments">
+    <hr>
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -323,8 +295,9 @@
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
-    </div>
 </div>
+
+<!-- End Content -->
 
         </article>
     </section>
@@ -335,85 +308,113 @@
             <i class="icon icon-chevron-right"></i>
         </button>
         <div class="inner">
-            <ul class="categories">
-    <li>
-        <h3>
-            <a href="/packages">All Packages</a>
-        </h3>
-    </li>
-    <li>
-        <h3>
-            <a href="/packages/popular">Most Popular</a>
-        </h3>
-    </li>
-    <li>
-        <h3>
-            <a href="/packages/downloads">Most Downloaded</a>
-        </h3>
-    </li>
-</ul>
+<!-- Start Sidebar -->
 
-<hr>
+<div class="download">
+        <div class="releases">
+        <!-- release = resource.releases.each_with_index() do |release,k| -->
+            <div class="release  0" id="release-932784">
+                <div class="files centered">
+                       <div class="assets">
+                               <div>
+                               <a href="https://github.com/Defman21/atomik-komodo/releases/download/v1.0/atomik-1.0-ko.xpi" class="button big primary">
+                                   <i class="icon icon-download"></i>
+                                   Download
+                               </a>
+                               </div>
+                               <div>
+                               <a href="https://github.com/Defman21/atomik-komodo/releases/download/v1.0/Dark_scheme.ksf" class="button big primary">
+                                   <i class="icon icon-download"></i>
+                                   Download
+                               </a>
+                               </div>
+                               <div>
+                               <a href="https://github.com/Defman21/atomik-komodo/releases/download/v1.0/Light_scheme.ksf" class="button big primary">
+                                   <i class="icon icon-download"></i>
+                                   Download
+                               </a>
+                               </div>
+                       </div>
+                   <div class="source">
+                       <a href="https://github.com/Defman21/atomik-komodo/archive/Atomik v1.0.zip" class="button">
+                           <i class="icon icon-download"></i>
+                           Download Source
+                       </a>
+                   </div>
+                </div>
+            </div>
+        </div>
+</div>
+        
+        <div class="spacer"></div>
 
-<ul class="categories">
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/addons">Addons</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/macros">Macros</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/toolbox">Toolbox</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/schemes">Color Schemes</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/skins">Skins</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/languages">Languages</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/keybinds">Keybindings</a>
-            </h3>
-        </li>
-        <li>
-            <h3>
-                <a href="http://komodoide.com/packages/misc">Miscellaneous</a>
-            </h3>
-        </li>
-</ul>
+<div class="details-meta">
+    <dl>
+        <dt>
+            <i class="icon icon-user"></i>
+        </dt>
+        <dd>
+            <a href="https://github.com/Defman21">
+                <span>Defman21</span>
+            </a>
+            <a href="https://github.com/Defman21" class="preview">
+                <img src="https://avatars.githubusercontent.com/u/7100645?v=3?s=18">
+            </a>
+        </dd>
+        
 
-<hr>
+        <dt>
+            <i class="icon icon-github"></i>
+        </dt>
+        <dd>
+            <a href="https://github.com/Defman21/atomik-komodo">
+                    Defman21/atomik-komodo
+            </a>
+        </dd>
+    
+        <dt>
+            <i class="icon icon-clock-o"></i>
+        </dt>
+        <dd title="2015-02-09T13:21:21Z">
+            Updated 23 weeks ago
+        </dd>
+        
+        <dt>
+            <i class="icon icon-code-fork"></i>
+        </dt>
+        <dd>
+            <a href="https://github.com/Defman21/atomik-komodo/releases/tag/v1.0">
+                Version 
+                v1.0
+            </a>
+        </dd>
 
-<h2>How To ..</h2>
+        <dt>
+            <i class="icon icon-bug"></i>
+        </dt>
+        <dd>
+            <a href="https://github.com/Defman21/atomik-komodo/issues">
+                1 issues
+            </a>
+        </dd>
 
-<ul class="disc">
-    <li>
-        <a href="http://komodoide.com/packages/install-instructions">Install Packages</a>
-    </li>
-    <li>
-        <a href="http://komodoide.com/packages/submit-instructions#pane-packages">Submit a Package</a>
-    </li>
-    <li>
-        <a href="http://komodoide.com/customize">Customize Komodo</a>
-    </li>
-</ul>
+        <dt>
+            <i class="icon icon-cloud-download"></i>
+        </dt>
+        <dd>
+            <span>856 downloads</span>
+        </dd>
+    
+        <dt>
+            <i class="icon icon-star"></i>
+        </dt>
+        <dd>
+            <span>0 stars</span>
+        </dd>
+    </dl>
+</div>
 
+<!-- End Sidebar -->
         </div>
     </aside>
 </div>
