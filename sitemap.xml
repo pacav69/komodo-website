@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://komodoide.com/packages/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -416,37 +416,37 @@
   </url>
   <url>
     <loc>http://komodoide.com/packages/toolbox/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/addons/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/misc/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/keybinds/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/popular/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/skins/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -458,19 +458,19 @@
   </url>
   <url>
     <loc>http://komodoide.com/packages/macros/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/languages/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/schemes/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -482,7 +482,7 @@
   </url>
   <url>
     <loc>http://komodoide.com/packages/downloads/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -4118,103 +4118,247 @@
   </url>
   <url>
     <loc>http://komodoide.com/packages/pages/2/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/pages/3/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/pages/4/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/pages/5/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/pages/6/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/pages/7/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/pages/8/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/pages/9/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/pages/10/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/pages/11/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/pages/12/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/languages/pages/2/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/addons/pages/2/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/addons/pages/3/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/addons/pages/4/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/popular/pages/2/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/popular/pages/3/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/popular/pages/4/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/popular/pages/5/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/popular/pages/6/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/popular/pages/7/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/popular/pages/8/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/popular/pages/9/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/popular/pages/10/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/popular/pages/11/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/popular/pages/12/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/macros/pages/2/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/pages/3/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/macros/pages/4/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/pages/2/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/downloads/pages/2/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/downloads/pages/3/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/downloads/pages/4/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/downloads/pages/5/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://komodoide.com/packages/downloads/pages/6/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/downloads/pages/7/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/downloads/pages/8/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/downloads/pages/9/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/downloads/pages/10/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/downloads/pages/11/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/downloads/pages/12/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
