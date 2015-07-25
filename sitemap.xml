@@ -86,7 +86,7 @@
   </url>
   <url>
     <loc>http://komodoide.com/pricing/</loc>
-    <lastmod>2015-06-02T16:29:43-07:00</lastmod>
+    <lastmod>2015-07-24T17:33:05-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2845,18 +2845,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/komodo--dita/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/packages/addons/dita/</loc>
-    <lastmod>2015-07-24T13:58:23-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://komodoide.com/resources/addons/komodo--focusmode/</loc>
     <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -3752,6 +3740,18 @@
   </url>
   <url>
     <loc>http://komodoide.com/packages/skins/classic/</loc>
+    <lastmod>2015-07-24T13:58:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/schemes/naatan--magicwb-amiga/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/schemes/magicwb-amiga/</loc>
     <lastmod>2015-07-24T13:58:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -11,12 +11,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         <!-- Site Properities -->
-        <title>Komodo IDE | Komodo IDE</title>
+        <title>MagicWB-Amiga | Komodo IDE</title>
         <meta name="description" content="One IDE, All Your Favourite Languages. Komodo is the professional IDE for major web languages, including Python,PHP, Ruby, Perl, HTML, CSS and JavaScript." />
         <meta name="keywords" content="komodo,komodo ide,activestate komodo ide,activestate komodo ide 6,activestate komodo,activestate ide,comodo ide,activestatecomodo,kumodo ide,active state komodo,perl komodo ide,idesoftware,perl ide,python ide,ide python,tcl ide,integrateddevelopment environment,development environment,activetstate,komodolinux,komodo mac" />
         
         <!-- Social Media Properties -->
-        <meta property="og:title" content="Komodo IDE" />
+        <meta property="og:title" content="MagicWB-Amiga | Komodo IDE" />
         <meta property="og:type" content="article" />
         <meta property="og:description" content="One IDE, All Your Favourite Languages. Komodo is the professional IDE for major web languages, including Python,PHP, Ruby, Perl, HTML, CSS and JavaScript." />
         
@@ -50,7 +50,7 @@
         </script>
 
         <!-- Main Container -->
-        <div id="container" class="container-index">
+        <div id="container" class="container-resource">
             <a name="top"></a>
             <header>
     <div class="outer">
@@ -132,19 +132,275 @@
     </div>
 </header>
 
-                <div id="content" class="document-index
-                             
-                             
-                             
-                             resources resources_addons resources_addons_komodo--dita resources_addons_komodo--dita_index">
-        <section role="main">
-            <article class="normalize">
-                <meta http-equiv="refresh" content="0; url=http://komodoide.com/packages/addons/dita/">
-<link rel="canonical" href="http://komodoide.com/packages/addons/dita/" />
+            <div id="content" class="sidebar sidebar-left document-resource">
+    <section role="main">
+        <article class="normalize">
 
-            </article>
-        </section>
+<!-- Start Content -->
+
+<ul class="trail">
+    <li>
+        <a href="/packages">Packages</a>
+    </li>
+    <li>
+        <a href="/packages/schemes">
+            Color Schemes
+        </a>
+    </li>
+    <li>
+        MagicWB-Amiga
+    </li>
+</ul>
+
+<div class="try-buy-buttons">
+    <div class="inner">
+        <a class="button primary" href="/download">
+            <i class="icon icon-download"></i> Try Komodo IDE
+        </a>
+        <a class="button " href="/pricing">
+            <i class="icon icon-shopping-cart"></i> Buy Komodo IDE
+        </a>
     </div>
+</div>
+
+
+<style type="text/css">
+
+#scheme-preview pre code
+{
+    background: #969696;
+    color: #000000;
+}
+
+#python .hl-keyword { color: #3a68a3 }
+#python .ko-keyword { color: #ffa995 }
+#python .hl-string { color: #ffffff }
+#python .hl-class .hl-title { color: #0000ff }
+#python .hl-function .hl-title { color: #ffa995 }
+#python .hl-function .hl-params { color: #000000 }
+#python .hl-comment { color: #8d2e75 }
+#python .ko-operator { color: #000000 }
+#python .hl-number { color: #ffffff }
+
+
+#php .hl-keyword { color: #3a68a3 }
+#php .ko-keyword { color: #ffa995 }
+#php .hl-string { color: #ffffff }
+#php .hl-class .hl-title { color: #323537 }
+#php .hl-function .hl-title { color: #323537 }
+#php .hl-function .hl-params { color: #000000 }
+#php .hl-comment { color: #8d2e75 }
+#php .ko-operator { color: #000000 }
+#php .hl-variable { color: #3a68a3 }
+#php .hl-number { color: #ffffff }
+</style>
+
+<div id="scheme-preview" class="tabs">
+    <pre id="python"><code>
+import math
+class Class:
+    """ this is a docstring """
+    def __init__(self, arg): # one line comment
+        self.x = arg + math.cos(arg + arg)
+        s = 'a string'
+    
+    def display(self, value):
+        print value
+        
+    def increment(self, value):
+        value = value + 1
+        print value
+    
+xyz = Class('foo')
+xyz.increment(10)
+    </code></pre>
+    
+    <pre id="php" style="display: none"><code>
+&lt;?php
+class foo {
+    // a comment
+    var $a;
+    var $b;
+    function display() {
+        echo "This is class foo";
+        echo "a = ".$this-&gt;a."";
+        echo "b = {$this-&gt;b}";
+    }
+    function mul() {
+        return $this-&gt;a*$this-&gt;b;
+    }
+};
+
+$foo1 = new foo;
+$foo1-&gt;a = 2;
+$foo1-&gt;b = 5;
+$foo1-&gt;display();
+echo $foo1-&gt;mul()."";
+    </code></pre>
+    
+    <ul id="scheme-preview-selector">
+        <li>
+            <a href="#python">Python</a>
+        </li>
+        <li>
+            <a href="#php">PHP</a>
+        </li>
+    </ul>
+</div>
+
+<p style="text-align: center">
+    <strong>Warning:</strong> This preview is an approximation, the color scheme may look different within Komodo.
+</p>
+
+<div class="spacer"></div>
+<hr/>
+
+    <div id="readme" class="readme user-input">
+    <p>The preview on the komodo packages site will likely not be very accurate, this scheme is a bit &quot;special&quot;.</p>
+
+<p>I came across the MagicWB Amiga colorscheme a while ago and was immediately drawn to how ugly it was. I mean seriously, it has pinkish/beige string highlights. I don&#39;t know what it was that drew me to it, but something about it just felt really &quot;authentic&quot;.</p>
+
+<p>So I replicated it to Komodo, made a few adjustments and started using it. I quite enjoyed it for a few weeks but eventually reverted back to dark schemes.</p>
+
+<p>Hopefully someone else will get some use out of this.</p>
+
+<h2>Screenshot</h2>
+
+<p><img src="https://github.com/Naatan/MagicWB-Amiga-scheme/raw/master/screenshot.png" alt="Screenshot"></p>
+
+<p>I used Proggy square for the screenshot</p>
+
+    </div>
+
+<div id="comments" class="comments">
+    <hr>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+        var disqus_shortname = 'komodoide';
+
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+</div>
+
+<!-- End Content -->
+
+        </article>
+    </section>
+    <aside class="sidebar-resources normalize">
+        <div id="side-border"></div>
+        <button id="side-collapse" class="button big">
+            <i class="icon icon-chevron-left"></i>
+            <i class="icon icon-chevron-right"></i>
+        </button>
+        <div class="inner">
+<!-- Start Sidebar -->
+
+<div class="download">
+        <div class="releases">
+        <!-- release = resource.releases.each_with_index() do |release,k| -->
+            <div class="release  0" id="release-1585025">
+                <div class="files centered">
+                       <div class="assets">
+                               <div>
+                               <a href="https://github.com/Naatan/MagicWB-Amiga-scheme/releases/download/1.0/MagicWB_Amiga.ksf" class="button big primary">
+                                   <i class="icon icon-download"></i>
+                                   Download
+                               </a>
+                               </div>
+                       </div>
+                   <div class="source">
+                       <a href="https://github.com/Naatan/MagicWB-Amiga-scheme/archive/1.0.zip" class="button">
+                           <i class="icon icon-download"></i>
+                           Download Source
+                       </a>
+                   </div>
+                </div>
+            </div>
+        </div>
+</div>
+        
+        <div class="spacer"></div>
+
+<div class="details-meta">
+    <dl>
+        <dt>
+            <i class="icon icon-user"></i>
+        </dt>
+        <dd>
+            <a href="https://github.com/Naatan">
+                <span>Naatan</span>
+            </a>
+            <a href="https://github.com/Naatan" class="preview">
+                <img src="https://avatars.githubusercontent.com/u/278649?v=3?s=18">
+            </a>
+        </dd>
+        
+
+        <dt>
+            <i class="icon icon-github"></i>
+        </dt>
+        <dd>
+            <a href="https://github.com/Naatan/MagicWB-Amiga-scheme">
+                    Naatan/MagicWB-Amiga-scheme
+            </a>
+        </dd>
+    
+        <dt>
+            <i class="icon icon-clock-o"></i>
+        </dt>
+        <dd title="2015-07-25T00:44:06Z">
+            Updated 4 minutes ago
+        </dd>
+        
+        <dt>
+            <i class="icon icon-code-fork"></i>
+        </dt>
+        <dd>
+            <a href="https://github.com/Naatan/MagicWB-Amiga-scheme/releases/tag/1.0">
+                Version 
+                1.0
+            </a>
+        </dd>
+
+        <dt>
+            <i class="icon icon-bug"></i>
+        </dt>
+        <dd>
+            <a href="https://github.com/Naatan/MagicWB-Amiga-scheme/issues">
+                0 issues
+            </a>
+        </dd>
+
+        <dt>
+            <i class="icon icon-cloud-download"></i>
+        </dt>
+        <dd>
+            <span>0 downloads</span>
+        </dd>
+    
+        <dt>
+            <i class="icon icon-star"></i>
+        </dt>
+        <dd>
+            <span>0 stars</span>
+        </dd>
+    </dl>
+</div>
+
+<!-- End Sidebar -->
+        </div>
+    </aside>
+</div>
 
             <div id="footer_push"></div>
         </div>
