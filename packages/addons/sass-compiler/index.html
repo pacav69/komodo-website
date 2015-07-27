@@ -11,12 +11,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         <!-- Site Properities -->
-        <title>Russian language | Komodo IDE</title>
+        <title>Sass Compiler | Komodo IDE</title>
         <meta name="description" content="One IDE, All Your Favourite Languages. Komodo is the professional IDE for major web languages, including Python,PHP, Ruby, Perl, HTML, CSS and JavaScript." />
         <meta name="keywords" content="komodo,komodo ide,activestate komodo ide,activestate komodo ide 6,activestate komodo,activestate ide,comodo ide,activestatecomodo,kumodo ide,active state komodo,perl komodo ide,idesoftware,perl ide,python ide,ide python,tcl ide,integrateddevelopment environment,development environment,activetstate,komodolinux,komodo mac" />
         
         <!-- Social Media Properties -->
-        <meta property="og:title" content="Russian language | Komodo IDE" />
+        <meta property="og:title" content="Sass Compiler | Komodo IDE" />
         <meta property="og:type" content="article" />
         <meta property="og:description" content="One IDE, All Your Favourite Languages. Komodo is the professional IDE for major web languages, including Python,PHP, Ruby, Perl, HTML, CSS and JavaScript." />
         
@@ -143,12 +143,12 @@
         <a href="/packages">Packages</a>
     </li>
     <li>
-        <a href="/packages/misc">
-            Miscellaneous
+        <a href="/packages/addons">
+            Addons
         </a>
     </li>
     <li>
-        Russian language
+        Sass Compiler
     </li>
 </ul>
 
@@ -165,57 +165,90 @@
 
 
     <div id="readme" class="readme user-input">
-    <h1>komodo-ru</h1>
+    <h1>Komodo-sass-compiler</h1>
 
-<p>Проект по переводу редактора Komodo Edit и Komodo IDE</p>
+<p>Sass/Scss compiler for komodo edit/ide</p>
 
-<p>Авторы:</p>
+<p>a SASS compiler for Komodo Edit/Ide.</p>
 
-<ul>
-<li>Laborpago - перевод интерфейса Komodo Edit и IDE</li>
-<li>Defman21 - организация репозитория, перевод IDE</li>
-<li>Naatan - организация исходного кода для Komodo 9</li>
-</ul>
+<h2>Usage</h2>
 
-<p>Сайты авторов:</p>
+<p>Goto to Tools -&gt; SASS and select an option.</p>
 
 <ul>
-<li>Laborpago - http://technic-note.blogspot.com/</li>
-<li>Defman21 - http://defmanblog.tk/</li>
-<li>Naatan - http://komodoide.com/</li>
+<li><strong><em>Compile Saved File into CSS</em></strong><br>
+takes a .sass or .scss file and creates a .css file with the same name in the same spot as the .sass or .scss file.</li>
+<li><strong><em>Compile Current Buffer</em></strong><br>
+into CSS takes the contents of the current buffer and turns it into CSS.</li>
+<li><strong><em>Compile Selection into CSS</em></strong><br> 
+takes the current selection and turns it into CSS.</li>
+<li><strong><em>Compile and Compress Saved File into CSS</em></strong><br>
+takes a .sass or .scss file and creates a .css file with the same name in the same spot as the .sass or .scss file. The .sass file will be compressed/minified.</li>
+<li><strong><em>Compile and Compress Current Buffer</em></strong><br>
+into CSS takes the contents of the current buffer and turns it into compressed CSS.</li>
+<li><strong><em>Compile and Compress Selection into CSS</em></strong><br> 
+takes the current selection and turns it into compressed CSS.</li>
+<li><strong><em>Collect $vars</em></strong><br> 
+collect all the SASS $vars for auto completion.</li>
+<li><strong>File Watcher</strong><ul>
+<li>
+<strong>Enable File Watcher for current file</strong><br>
+Enables a file watcher for current .scss or .sass file
+</li>
+<li>
+<strong>disable File Watcher</strong><br>
+Disables the file watcher
+</li>
 </ul>
 
-<p>Как собрать:</p>
+<p></ul>
+<em>When you right-click on the file you get the same option list (SASS &gt; options).</em></p>
 
-<ul>
-<li>С помощью koext: <code>koext build --unjarred</code></li>
-</ul>
+<h2>Macro's</h2>
 
-<h3>English</h3>
+<p>You can create a macro that will automatically turn a .sass or .scss file into CSS when you save. Use the following code and have it trigger After file save:</p>
 
-<p>Add Russian translate for Komodo Edit and IDE</p>
+<p><code>javascript
+if (extensions.sass) {
+    extensions.sass.compileFile();
+}
+</code>
+<p>The following macro will compile and compress the current file in tho css.</p>
+<code>javascript
+if (extensions.sass) {
+    extensions.sass.compileCompressFile();
+}
+</code></p>
 
-<p>Authors:</p>
+<h2>$vars completion</h2>
 
-<ul>
-<li>Laborpago - translate Komodo Edit and IDE</li>
-<li>Defman21 - organize repository, translate IDE</li>
-<li>Naatan - organize source code for Komodo 9</li>
-</ul>
+<p>This extension also includes a $var auto completion for a better SASS integration in Komodo.<br>
+This completion box is triggered when you type <code>$</code>.</p>
+<p>
+<b>
+note  
+</b>  
+on .scss files the completion box is canceled if you type after the $ (bug)
+</p>
 
-<p>Author&#39;s websites:</p>
+<p>To set up the auto completion you will have to set 2 macro's the first one is to enable the completion, and the other to get the $vars from your document.<br>
+A known <b>bug</b> is that after insertion white space is added, i created a "fix" if you type <code>;</code> or <code>)</code> the white space is removed and if there is a additional <code>;</code> or <code>)</code> it will be removed (for or Emmet users).<br>
+for .sass users you can just press enter, and the white space is removed</p>
+<p>The following macro will trigger a custom auto completion box with SASS $vars (trigger after start up).  
+</p>
 
-<ul>
-<li>Laborpago - http://technic-note.blogspot.com/</li>
-<li>Defman21 - http://defmanblog.tk/</li>
-<li>Naatan - http://komodoide.com/</li>
-</ul>
-
-<p>How to build:</p>
-
-<ul>
-<li>Build it with koext: <code>koext build --unjarred</code></li>
-</ul>
+<p><code>javascript
+if (extensions.sass) {
+    extensions.sass.varCompletion();
+}
+</code>
+ <p>The next macro is for getting the $vars form your document (current view or the file where the file watcher is enabled including @imports) (trigger on custom key binding, i use <kbd>Alt</kbd> + <kbd>g</kbd>)<br>
+ if you working with SASS and you have not search for $vars and you trigger the completion $.</p>
+ <code>javascript
+ if (extensions.sass) {
+    extensions.sass.getVars(); 
+}
+</code></p>
 
     </div>
 
@@ -255,18 +288,18 @@
 <div class="download">
         <div class="releases">
         <!-- release = resource.releases.each_with_index() do |release,k| -->
-            <div class="release  0" id="release-1405169">
+            <div class="release  0" id="release-1586725">
                 <div class="files centered">
                        <div class="assets">
                                <div>
-                               <a href="https://github.com/Defman21/komodo-ru/releases/download/v1.19/localru-1.19-ko.xpi" class="button big primary">
+                               <a href="https://github.com/babobski/Komodo-sass-compiler/releases/download/1.0/komodo-sass-compiler-1.0.xpi" class="button big primary">
                                    <i class="icon icon-download"></i>
                                    Download
                                </a>
                                </div>
                        </div>
                    <div class="source">
-                       <a href="https://github.com/Defman21/komodo-ru/archive/Komodo Edit Translation 1.19.zip" class="button">
+                       <a href="https://github.com/babobski/Komodo-sass-compiler/archive/first release.zip" class="button">
                            <i class="icon icon-download"></i>
                            Download Source
                        </a>
@@ -284,11 +317,11 @@
             <i class="icon icon-user"></i>
         </dt>
         <dd>
-            <a href="https://github.com/Defman21">
-                <span>Defman21</span>
+            <a href="https://github.com/babobski">
+                <span>babobski</span>
             </a>
-            <a href="https://github.com/Defman21" class="preview">
-                <img src="https://avatars.githubusercontent.com/u/7100645?v=3?s=18">
+            <a href="https://github.com/babobski" class="preview">
+                <img src="https://avatars.githubusercontent.com/u/3530262?v=3?s=18">
             </a>
         </dd>
         
@@ -297,25 +330,25 @@
             <i class="icon icon-github"></i>
         </dt>
         <dd>
-            <a href="https://github.com/Defman21/komodo-ru">
-                    Defman21/komodo-ru
+            <a href="https://github.com/babobski/Komodo-sass-compiler">
+                    babobski/Komodo-sass-compiler
             </a>
         </dd>
     
         <dt>
             <i class="icon icon-clock-o"></i>
         </dt>
-        <dd title="2015-06-11T16:46:44Z">
-            Updated 6 weeks ago
+        <dd title="2015-07-26T20:31:40Z">
+            Updated 16 hours ago
         </dd>
         
         <dt>
             <i class="icon icon-code-fork"></i>
         </dt>
         <dd>
-            <a href="https://github.com/Defman21/komodo-ru/releases/tag/v1.19">
+            <a href="https://github.com/babobski/Komodo-sass-compiler/releases/tag/1.0">
                 Version 
-                v1.19
+                1.0
             </a>
         </dd>
 
@@ -323,7 +356,7 @@
             <i class="icon icon-bug"></i>
         </dt>
         <dd>
-            <a href="https://github.com/Defman21/komodo-ru/issues">
+            <a href="https://github.com/babobski/Komodo-sass-compiler/issues">
                 0 issues
             </a>
         </dd>
@@ -332,14 +365,14 @@
             <i class="icon icon-cloud-download"></i>
         </dt>
         <dd>
-            <span>102 downloads</span>
+            <span>0 downloads</span>
         </dd>
     
         <dt>
             <i class="icon icon-star"></i>
         </dt>
         <dd>
-            <span>2 stars</span>
+            <span>0 stars</span>
         </dd>
     </dl>
 </div>
