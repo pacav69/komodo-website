@@ -11,12 +11,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         <!-- Site Properities -->
-        <title>July2015MonthlyFlavour | Komodo IDE</title>
+        <title>Tabula Rasa | Komodo IDE</title>
         <meta name="description" content="One IDE, All Your Favourite Languages. Komodo is the professional IDE for major web languages, including Python,PHP, Ruby, Perl, HTML, CSS and JavaScript." />
         <meta name="keywords" content="komodo,komodo ide,activestate komodo ide,activestate komodo ide 6,activestate komodo,activestate ide,comodo ide,activestatecomodo,kumodo ide,active state komodo,perl komodo ide,idesoftware,perl ide,python ide,ide python,tcl ide,integrateddevelopment environment,development environment,activetstate,komodolinux,komodo mac" />
         
         <!-- Social Media Properties -->
-        <meta property="og:title" content="July2015MonthlyFlavour | Komodo IDE" />
+        <meta property="og:title" content="Tabula Rasa | Komodo IDE" />
         <meta property="og:type" content="article" />
         <meta property="og:description" content="One IDE, All Your Favourite Languages. Komodo is the professional IDE for major web languages, including Python,PHP, Ruby, Perl, HTML, CSS and JavaScript." />
         
@@ -143,12 +143,12 @@
         <a href="/packages">Packages</a>
     </li>
     <li>
-        <a href="/packages/schemes">
-            Color Schemes
+        <a href="/packages/skins">
+            Skins
         </a>
     </li>
     <li>
-        July2015MonthlyFlavour
+        Tabula Rasa
     </li>
 </ul>
 
@@ -164,140 +164,42 @@
 </div>
 
 
-<style type="text/css">
-
-#scheme-preview pre code
-{
-    background: #ffffff;
-    color: #666666;
-}
-
-#python .hl-keyword { color: #a71d5d }
-#python .ko-keyword { color: #a71d5d }
-#python .hl-string { color: #4180c6 }
-#python .hl-class .hl-title { color: #0086b3 }
-#python .hl-function .hl-title { color: #795da3 }
-#python .hl-function .hl-params { color: #666666 }
-#python .hl-comment { color: #969896 }
-#python .ko-operator { color: #333333 }
-#python .hl-number { color: #0086b3 }
-
-
-#php .hl-keyword { color: #a71d5d }
-#php .ko-keyword { color: #a71d5d }
-#php .hl-string { color: #4180c6 }
-#php .hl-class .hl-title { color: #795da3 }
-#php .hl-function .hl-title { color: #795da3 }
-#php .hl-function .hl-params { color: #666666 }
-#php .hl-comment { color: #969896 }
-#php .ko-operator { color: #333333 }
-#php .hl-variable { color: #ed6a43 }
-#php .hl-number { color: #0086b3 }
-</style>
-
-<div id="scheme-preview" class="tabs">
-    <pre id="python"><code>
-import math
-class Class:
-    """ this is a docstring """
-    def __init__(self, arg): # one line comment
-        self.x = arg + math.cos(arg + arg)
-        s = 'a string'
-    
-    def display(self, value):
-        print value
-        
-    def increment(self, value):
-        value = value + 1
-        print value
-    
-xyz = Class('foo')
-xyz.increment(10)
-    </code></pre>
-    
-    <pre id="php" style="display: none"><code>
-&lt;?php
-class foo {
-    // a comment
-    var $a;
-    var $b;
-    function display() {
-        echo "This is class foo";
-        echo "a = ".$this-&gt;a."";
-        echo "b = {$this-&gt;b}";
-    }
-    function mul() {
-        return $this-&gt;a*$this-&gt;b;
-    }
-};
-
-$foo1 = new foo;
-$foo1-&gt;a = 2;
-$foo1-&gt;b = 5;
-$foo1-&gt;display();
-echo $foo1-&gt;mul()."";
-    </code></pre>
-    
-    <ul id="scheme-preview-selector">
-        <li>
-            <a href="#python">Python</a>
-        </li>
-        <li>
-            <a href="#php">PHP</a>
-        </li>
-    </ul>
-</div>
-
-<p style="text-align: center">
-    <strong>Warning:</strong> This preview is an approximation, the color scheme may look different within Komodo.
-</p>
-
-<div class="spacer"></div>
-<hr/>
-
     <div id="readme" class="readme user-input">
-    <h1>Description</h1>
+    <p><img src="https://github.com/Naatan/TabulaRasa/raw/master/screenshot.png" alt="Screenshot"></p>
 
-<p>July2015MontlyFlavour color scheme for Komodo 9. (The name is not my idea at all, thanks Nathan)</p>
+<p>This skin is to be considered an alpha, you WILL run into issues if you use this,
+they may be minor, they may be big. IF you run into issues <a href="https://github.com/Naatan/TabulaRasa/blob/master/ht"tps://github.com/Naatan/TabulaRasa/issues">please report them</a>.</p>
 
-<h2>How to install</h2>
+<p>This skin is intended to replace 90% of the base CSS in Komodo with something
+very bare basic and simple that can then be extended upon. The main purpose of
+this skin is to simplify the CSS in Komodo, the actual look and feel is secondary
+and is currently using other skins as a point of reference.</p>
 
-<ul>
-<li>Easy method: Dran&#39;n&#39;drop <code>July2015MontlyFlavour.ksf</code> onto your Komodo window</li>
-<li>Hard method: find your Komodo profile folder and drop <code>July2015MontlyFlavour.ksf</code> into <code>schemes/</code> folder</li>
-</ul>
-
-<h2>Screenshots</h2>
-
-<ul>
-<li>HTML</li>
-</ul>
-
-<p><img src="https://github.com/Defman21/komodo-july2015monthlyflavour/raw/master/screens/html.png" alt="HTML"></p>
+<h1>Roadmap (not implemented yet)</h1>
 
 <ul>
-<li>CSS</li>
+<li>Color according to color scheme</li>
+<li>Make colors configurable</li>
+<li>Test, fix, test, polish, test, test ... test</li>
 </ul>
 
-<p><img src="https://github.com/Defman21/komodo-july2015monthlyflavour/raw/master/screens/css.png" alt="CSS"></p>
+<h1>Contributing</h1>
+
+<p>Please note that though the project is in its early stages and therefore the code
+is not as clean as it ought to be, any contributions should strive to be as clean
+and tidy as possible given the current structure of the project. I&#39;ll gladly
+review PR&#39;s that strive to organize the codebase, I&#39;m waiting for the project
+to take shape before I do that myself.</p>
+
+<p>Contributors:</p>
 
 <ul>
-<li>JavaScript</li>
+<li><a href="https://github.com/Naatan/TabulaRasa/blob/master/ht"tps://github.com/Defman21">Defman</a></li>
 </ul>
 
-<p><img src="https://github.com/Defman21/komodo-july2015monthlyflavour/raw/master/screens/js.png" alt="JS"></p>
+<h1>Building</h1>
 
-<ul>
-<li>CoffeeScript</li>
-</ul>
-
-<p><img src="https://github.com/Defman21/komodo-july2015monthlyflavour/raw/master/screens/cs.png" alt="CoffeeScript"></p>
-
-<ul>
-<li>PHP</li>
-</ul>
-
-<p><img src="https://github.com/Defman21/komodo-july2015monthlyflavour/raw/master/screens/php.png" alt="PHP"></p>
+<p><code>koext build --unjarred</code></p>
 
     </div>
 
@@ -337,18 +239,18 @@ echo $foo1-&gt;mul()."";
 <div class="download">
         <div class="releases">
         <!-- release = resource.releases.each_with_index() do |release,k| -->
-            <div class="release  0" id="release-1531686">
+            <div class="release  0" id="release-1593986">
                 <div class="files centered">
                        <div class="assets">
                                <div>
-                               <a href="https://github.com/Defman21/komodo-july2015monthlyflavour/releases/download/1.0/July2015MonthlyFlavour.ksf" class="button big primary">
+                               <a href="https://github.com/Naatan/TabulaRasa/releases/download/0.1/tabularasa-0.1-ko.xpi" class="button big primary">
                                    <i class="icon icon-download"></i>
                                    Download
                                </a>
                                </div>
                        </div>
                    <div class="source">
-                       <a href="https://github.com/Defman21/komodo-july2015monthlyflavour/archive/July2015MonthlyFlavour.zip" class="button">
+                       <a href="https://github.com/Naatan/TabulaRasa/archive/0.1.zip" class="button">
                            <i class="icon icon-download"></i>
                            Download Source
                        </a>
@@ -366,11 +268,11 @@ echo $foo1-&gt;mul()."";
             <i class="icon icon-user"></i>
         </dt>
         <dd>
-            <a href="https://github.com/Defman21">
-                <span>Defman21</span>
+            <a href="https://github.com/Naatan">
+                <span>Naatan</span>
             </a>
-            <a href="https://github.com/Defman21" class="preview">
-                <img src="https://avatars.githubusercontent.com/u/7100645?v=3?s=18">
+            <a href="https://github.com/Naatan" class="preview">
+                <img src="https://avatars.githubusercontent.com/u/278649?v=3?s=18">
             </a>
         </dd>
         
@@ -379,25 +281,26 @@ echo $foo1-&gt;mul()."";
             <i class="icon icon-github"></i>
         </dt>
         <dd>
-            <a href="https://github.com/Defman21/komodo-july2015monthlyflavour">
-                    Defman21/komodo-july2015monthlyflavour
+            <a href="https://github.com/Naatan/TabulaRasa">
+                    Naatan/TabulaRasa
             </a>
         </dd>
     
         <dt>
             <i class="icon icon-clock-o"></i>
         </dt>
-        <dd title="2015-07-13T20:55:49Z">
-            Updated 2 weeks ago
+        <dd title="2015-07-28T03:21:19Z">
+            Updated 8 minutes ago
         </dd>
         
         <dt>
             <i class="icon icon-code-fork"></i>
         </dt>
         <dd>
-            <a href="https://github.com/Defman21/komodo-july2015monthlyflavour/releases/tag/1.0">
+            <a href="https://github.com/Naatan/TabulaRasa/releases/tag/0.1">
                 Version 
-                1.0
+                0.1
+                    (pre-release)
             </a>
         </dd>
 
@@ -405,8 +308,8 @@ echo $foo1-&gt;mul()."";
             <i class="icon icon-bug"></i>
         </dt>
         <dd>
-            <a href="https://github.com/Defman21/komodo-july2015monthlyflavour/issues">
-                0 issues
+            <a href="https://github.com/Naatan/TabulaRasa/issues">
+                1 issues
             </a>
         </dd>
 
@@ -414,14 +317,14 @@ echo $foo1-&gt;mul()."";
             <i class="icon icon-cloud-download"></i>
         </dt>
         <dd>
-            <span>97 downloads</span>
+            <span>0 downloads</span>
         </dd>
     
         <dt>
             <i class="icon icon-star"></i>
         </dt>
         <dd>
-            <span>0 stars</span>
+            <span>1 stars</span>
         </dd>
     </dl>
 </div>
