@@ -505,6 +505,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://komodoide.com/blog/my-first-komodo-contribution-spell-check/</loc>
+    <lastmod>2015-04-02T09:52:50-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://komodoide.com/blog/2014-11/komodo-ide-personal-is-here-to-stay/</loc>
     <lastmod>2015-04-02T09:52:50-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1093,6 +1099,48 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://komodoide.com/blog/tagged/komodo/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/blog/tagged/komodo ide/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/blog/tagged/spellcheck/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/blog/tagged/spelling/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/blog/tagged/package/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/blog/tagged/extension/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/blog/tagged/scintilla/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://komodoide.com/blog/tagged/pre-release/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1207,12 +1255,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/blog/tagged/extension/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://komodoide.com/blog/tagged/feature/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1226,12 +1268,6 @@
   </url>
   <url>
     <loc>http://komodoide.com/blog/tagged/editorconfig/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/blog/tagged/komodo/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1298,12 +1334,6 @@
   </url>
   <url>
     <loc>http://komodoide.com/blog/tagged/efficientcy/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/blog/tagged/komodo ide/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1675,6 +1705,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://komodoide.com/blog/tagged/komodo-9/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/blog/tagged/trackchanges/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://komodoide.com/blog/tagged/press/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1688,18 +1730,6 @@
   </url>
   <url>
     <loc>http://komodoide.com/blog/tagged/statistics/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/blog/tagged/komodo-9/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/blog/tagged/trackchanges/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -4148,6 +4178,12 @@
   </url>
   <url>
     <loc>http://komodoide.com/blog/pages/10/</loc>
+    <lastmod>2015-04-23T13:01:51-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/blog/pages/11/</loc>
     <lastmod>2015-04-23T13:01:51-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

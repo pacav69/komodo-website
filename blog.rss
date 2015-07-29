@@ -6,8 +6,15 @@
         <link>http://komodoide.com/blog/</link>
         <language>en</language>
         <webMaster>support@activestate.com (ActiveState Support)</webMaster>
-        <lastBuildDate>Wed, 29 Jul 2015 14:07:33 -0700</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2015 14:15:00 -0700</lastBuildDate>
         <generator>Middleman 3.3.10</generator>
+            <item>
+                <title>My First Komodo Contribution: Spell Check!</title>
+                <link>http://komodoide.com/blog/my-first-komodo-contribution-spell-check</link>
+                <pubDate>Tue, 28 Jul 2015 17:00:00 -0700</pubDate>
+                <description> Having recently joined the Komodo team, I've been given the opportunity to write about my experience so far in contributing to Komodo and getting familiar with its code base. My first task was creating an integrated [...]</description>
+                <guid>http://komodoide.com/blog/my-first-komodo-contribution-spell-check</guid>
+            </item>
             <item>
                 <title>Komodo 9.2 Pre-Release Ready for Testing</title>
                 <link>http://komodoide.com/blog/komodo-9-2-pre-release-ready-for-testing</link>
@@ -105,13 +112,6 @@
                 <pubDate>Mon, 27 Apr 2015 17:00:00 -0700</pubDate>
                 <description>ActiveState recently sponsored a lunch for the entire group that participated in the Vancouver Chapter's Random Hacks of Kindness - a movement that is very close to my heart. That was lunch for 65 people doing amazing [...]</description>
                 <guid>http://komodoide.com/blog/random-hacks-of-kindness-true-community-love</guid>
-            </item>
-            <item>
-                <title>Komodo IDE: 80's Tunes to Code By</title>
-                <link>http://komodoide.com/blog/komodo-ide-80-s-tunes-to-code-by</link>
-                <pubDate>Thu, 23 Apr 2015 17:00:00 -0700</pubDate>
-                <description> It's Friday, so please allow me some indulgence. A child of the eighties (Err... Well, maybe nineties... A lady never tells!) I've been going through my playlists today, "rocking out" to some of the great 80's classics [...]</description>
-                <guid>http://komodoide.com/blog/komodo-ide-80-s-tunes-to-code-by</guid>
             </item>
     </channel>
 </rss>
