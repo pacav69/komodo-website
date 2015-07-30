@@ -2839,6 +2839,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://komodoide.com/resources/addons/babobski--beautifyjs/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/addons/beautify-js/</loc>
+    <lastmod>2015-07-30T08:25:34-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://komodoide.com/resources/addons/babobski--sasscompiler/</loc>
     <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -2858,18 +2870,6 @@
   </url>
   <url>
     <loc>http://komodoide.com/packages/addons/less-compiler/</loc>
-    <lastmod>2015-07-30T08:25:34-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/addons/babobski--beautifyjs/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/packages/addons/beautify-js/</loc>
     <lastmod>2015-07-30T08:25:34-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
