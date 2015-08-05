@@ -811,6 +811,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://komodoide.com/blog/komodo-9-2-released-docker-and-vagrant-integration-package-installer-and/</loc>
+    <lastmod>2015-04-02T09:52:50-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://komodoide.com/blog/2011-08/using-komodo-ides-new-stackato-tools/</loc>
     <lastmod>2015-04-02T09:52:50-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1105,6 +1111,54 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://komodoide.com/blog/tagged/release/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/blog/tagged/docker/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/blog/tagged/vagrant/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/blog/tagged/editorconfig/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/blog/tagged/focus mode/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/blog/tagged/distraction free/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/blog/tagged/collaboration/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/blog/tagged/collab/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://komodoide.com/blog/tagged/komodo/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1225,12 +1279,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/blog/tagged/focus mode/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://komodoide.com/blog/tagged/focus/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1238,12 +1286,6 @@
   </url>
   <url>
     <loc>http://komodoide.com/blog/tagged/distraction/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/blog/tagged/distraction free/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1268,12 +1310,6 @@
   </url>
   <url>
     <loc>http://komodoide.com/blog/tagged/komodo focus mode/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/blog/tagged/editorconfig/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1657,12 +1693,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/blog/tagged/release/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://komodoide.com/blog/tagged/official/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -2005,12 +2035,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/blog/tagged/docker/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://komodoide.com/blog/tagged/build/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -2066,12 +2090,6 @@
   </url>
   <url>
     <loc>http://komodoide.com/blog/tagged/virtualbox/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/blog/tagged/vagrant/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2408,12 +2426,6 @@
   </url>
   <url>
     <loc>http://komodoide.com/blog/tagged/code/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/blog/tagged/collaboration/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

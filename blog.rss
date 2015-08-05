@@ -6,8 +6,15 @@
         <link>http://komodoide.com/blog/</link>
         <language>en</language>
         <webMaster>support@activestate.com (ActiveState Support)</webMaster>
-        <lastBuildDate>Tue, 4 Aug 2015 18:01:42 -0700</lastBuildDate>
+        <lastBuildDate>Wed, 5 Aug 2015 06:44:15 -0700</lastBuildDate>
         <generator>Middleman 3.3.10</generator>
+            <item>
+                <title>Komodo 9.2 Released: Docker & Vagrant Integration, Package Installer, and much more ..</title>
+                <link>http://komodoide.com/blog/komodo-9-2-released-docker-and-vagrant-integration-package-installer-and</link>
+                <pubDate>Tue, 4 Aug 2015 17:00:00 -0700</pubDate>
+                <description>Only two months after releasing Komodo 9.1, we're excited to announce yet another release, this one even bigger and better than the last [...]</description>
+                <guid>http://komodoide.com/blog/komodo-9-2-released-docker-and-vagrant-integration-package-installer-and</guid>
+            </item>
             <item>
                 <title>My First Komodo Contribution: Spell Check!</title>
                 <link>http://komodoide.com/blog/my-first-komodo-contribution-spell-check</link>
@@ -105,13 +112,6 @@
                 <pubDate>Tue, 28 Apr 2015 17:00:00 -0700</pubDate>
                 <description> This is just a gentle reminder that **Komodo IDE is on sale** at amazing prices, but only until midnight tomorrow (April 30th). Pick up your copy of Komodo IDE and save on new single or 5-pack bundles of licenses: until April 30 [...]</description>
                 <guid>http://komodoide.com/blog/komodo-sale-ends-tomorrow</guid>
-            </item>
-            <item>
-                <title>Random Hacks of Kindness - True Community Love</title>
-                <link>http://komodoide.com/blog/random-hacks-of-kindness-true-community-love</link>
-                <pubDate>Mon, 27 Apr 2015 17:00:00 -0700</pubDate>
-                <description>ActiveState recently sponsored a lunch for the entire group that participated in the Vancouver Chapter's Random Hacks of Kindness - a movement that is very close to my heart. That was lunch for 65 people doing amazing [...]</description>
-                <guid>http://komodoide.com/blog/random-hacks-of-kindness-true-community-love</guid>
             </item>
     </channel>
 </rss>
