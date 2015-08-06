@@ -6,8 +6,15 @@
         <link>http://komodoide.com/blog/</link>
         <language>en</language>
         <webMaster>support@activestate.com (ActiveState Support)</webMaster>
-        <lastBuildDate>Thu, 6 Aug 2015 09:01:37 -0700</lastBuildDate>
+        <lastBuildDate>Thu, 6 Aug 2015 10:59:57 -0700</lastBuildDate>
         <generator>Middleman 3.3.10</generator>
+            <item>
+                <title>Getting More from Komodo IDE Docker and Vagrant Integration</title>
+                <link>http://komodoide.com/blog/getting-more-from-komodo-ides-docker-and-vagrant-integration</link>
+                <pubDate>Wed, 5 Aug 2015 17:00:00 -0700</pubDate>
+                <description>We recently released Komodo 9.2, which boasts integration with Docker and Vagrant, as well as a boatload of other features and enhancements. Unfortunately, syntax highlighting for Dockerfile and Vagrantfile did not quite make the cut due to timing [...]</description>
+                <guid>http://komodoide.com/blog/getting-more-from-komodo-ides-docker-and-vagrant-integration</guid>
+            </item>
             <item>
                 <title>Komodo 9.2 Released: Docker & Vagrant Integration, Package Installer, and much more ..</title>
                 <link>http://komodoide.com/blog/komodo-9-2-released-docker-and-vagrant-integration-package-installer-and</link>
@@ -105,13 +112,6 @@
                 <pubDate>Wed, 29 Apr 2015 17:00:00 -0700</pubDate>
                 <description>We've already talked about Commando and Track Changes; today I'm giving you a quick demo of the new Markdown Viewer in Komodo [...]</description>
                 <guid>http://komodoide.com/blog/komodo-your-new-markdown-editor</guid>
-            </item>
-            <item>
-                <title>Komodo Sale Ends Tomorrow</title>
-                <link>http://komodoide.com/blog/komodo-sale-ends-tomorrow</link>
-                <pubDate>Tue, 28 Apr 2015 17:00:00 -0700</pubDate>
-                <description> This is just a gentle reminder that **Komodo IDE is on sale** at amazing prices, but only until midnight tomorrow (April 30th). Pick up your copy of Komodo IDE and save on new single or 5-pack bundles of licenses: until April 30 [...]</description>
-                <guid>http://komodoide.com/blog/komodo-sale-ends-tomorrow</guid>
             </item>
     </channel>
 </rss>
