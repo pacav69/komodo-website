@@ -3781,6 +3781,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://komodoide.com/resources/skins/naatan--londontube-lightfortabularasa/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/skins/londontube-light-for-tabularasa/</loc>
+    <lastmod>2015-07-30T08:25:34-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/skins/naatan--tomorrow-darkfortabularasa/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/skins/tomorrow-dark-for-tabularasa/</loc>
+    <lastmod>2015-07-30T08:25:34-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://komodoide.com/resources/skins/naatan--tabularasa/</loc>
     <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -3788,6 +3812,18 @@
   </url>
   <url>
     <loc>http://komodoide.com/packages/skins/tabula-rasa/</loc>
+    <lastmod>2015-07-30T08:25:34-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/skins/defman21--rainbowfortabularasa/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/skins/rainbow-for-tabularasa/</loc>
     <lastmod>2015-07-30T08:25:34-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -4448,6 +4484,12 @@
   </url>
   <url>
     <loc>http://komodoide.com/packages/macros/pages/4/</loc>
+    <lastmod>2015-07-24T17:05:23-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/skins/pages/2/</loc>
     <lastmod>2015-07-24T17:05:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
