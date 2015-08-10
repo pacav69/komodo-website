@@ -11,12 +11,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         <!-- Site Properities -->
-        <title>Blueland | Komodo IDE</title>
+        <title>Style Spy | Komodo IDE</title>
         <meta name="description" content="One IDE, All Your Favourite Languages. Komodo is the professional IDE for major web languages, including Python,PHP, Ruby, Perl, HTML, CSS and JavaScript." />
         <meta name="keywords" content="komodo,komodo ide,activestate komodo ide,activestate komodo ide 6,activestate komodo,activestate ide,comodo ide,activestatecomodo,kumodo ide,active state komodo,perl komodo ide,idesoftware,perl ide,python ide,ide python,tcl ide,integrateddevelopment environment,development environment,activetstate,komodolinux,komodo mac" />
         
         <!-- Social Media Properties -->
-        <meta property="og:title" content="Blueland | Komodo IDE" />
+        <meta property="og:title" content="Style Spy | Komodo IDE" />
         <meta property="og:type" content="article" />
         <meta property="og:description" content="One IDE, All Your Favourite Languages. Komodo is the professional IDE for major web languages, including Python,PHP, Ruby, Perl, HTML, CSS and JavaScript." />
         
@@ -143,12 +143,12 @@
         <a href="/packages">Packages</a>
     </li>
     <li>
-        <a href="/packages/schemes">
-            Color Schemes
+        <a href="/packages/addons">
+            Addons
         </a>
     </li>
     <li>
-        Blueland
+        Style Spy
     </li>
 </ul>
 
@@ -163,113 +163,42 @@
     </div>
 </div>
 
-<style type="text/css">
-
-#scheme-preview pre code
-{
-    background: #26292c;
-    color: #f8f8f8;
-}
-
-#python .hl-keyword { color: #fa9a4b }
-#python .ko-keyword { color: #bf616a }
-#python .hl-string { color: #c4e2f2 }
-#python .hl-class .hl-title { color: #ebcb8b }
-#python .hl-function .hl-title { color: #ffb454 }
-#python .hl-function .hl-params { color: #f8f8f8 }
-#python .hl-comment { color: #798188 }
-#python .ko-operator { color: #f8f8f8 }
-#python .hl-number { color: #b8d977 }
-
-
-#php .hl-keyword { color: #fa9a4b }
-#php .ko-keyword { color: #bf616a }
-#php .hl-string { color: #c4e2f2 }
-#php .hl-class .hl-title { color: #f8f8f8 }
-#php .hl-function .hl-title { color: #f8f8f8 }
-#php .hl-function .hl-params { color: #f8f8f8 }
-#php .hl-comment { color: #798188 }
-#php .ko-operator { color: #f8f8f8 }
-#php .hl-variable { color: #fb9a4b }
-#php .hl-number { color: #b8d977 }
-</style>
-
-<div id="scheme-preview" class="tabs">
-    <pre id="python"><code>
-import math
-class Class:
-    """ this is a docstring """
-    def __init__(self, arg): # one line comment
-        self.x = arg + math.cos(arg + arg)
-        s = 'a string'
-    
-    def display(self, value):
-        print value
-        
-    def increment(self, value):
-        value = value + 1
-        print value
-    
-xyz = Class('foo')
-xyz.increment(10)
-    </code></pre>
-    
-    <pre id="php" style="display: none"><code>
-&lt;?php
-class foo {
-    // a comment
-    var $a;
-    var $b;
-    function display() {
-        echo "This is class foo";
-        echo "a = ".$this-&gt;a."";
-        echo "b = {$this-&gt;b}";
-    }
-    function mul() {
-        return $this-&gt;a*$this-&gt;b;
-    }
-};
-
-$foo1 = new foo;
-$foo1-&gt;a = 2;
-$foo1-&gt;b = 5;
-$foo1-&gt;display();
-echo $foo1-&gt;mul()."";
-    </code></pre>
-    
-    <ul id="scheme-preview-selector">
-        <li>
-            <a href="#python">Python</a>
-        </li>
-        <li>
-            <a href="#php">PHP</a>
-        </li>
-    </ul>
-</div>
-
-<p style="text-align: center">
-    <strong>Warning:</strong> This preview is an approximation, the color scheme may look different within Komodo.
-</p>
-
-<div class="spacer"></div>
-
-<hr/>
 
     <div id="readme" class="readme user-input">
-    <h1>Description</h1>
+    <h3>The Basics</h3>
 
-<p>Blueland color scheme for Komodo 9.</p>
+<p>Style Spy is an extension for <a href="http://komodoide.com/">Komodo IDE</a> and <a href="http://komodoide.com/komodo-edit/">Komodo Edit</a>.
+It simplifies debugging and prototyping styles used in the Komodo editor.</p>
 
-<h2>How to install</h2>
+<h3>Installation</h3>
 
-<ul>
-<li>Easy method: Dran&#39;n&#39;drop <code>Blueland.ksf</code> onto your Komodo window</li>
-<li>Hard method: find your Komodo profile folder and drop <code>Blueland.ksf</code> into <code>schemes/</code> folder</li>
-</ul>
+<p>The extension XPI is available at https://ervumlens.github.io/ko-stylespy .</p>
 
-<h2>Screenshot</h2>
+<p>Once installed, the extension adds a new <code>Style Spy</code> menu under the main <code>Tools</code> menu.</p>
 
-<p><img src="https://github.com/Defman21/blueland-komodo/raw/master/screenshot.png" alt="Screen"></p>
+<h3>Usage</h3>
+
+<p>The best place to learn about Style Spy is in Style Spy itself.
+Open the <code>Help</code> item under the <code>Tools</code> &rarr; <code>Style Spy</code> menu to read about functionality.</p>
+
+<p>Here is a brief animation showing Style Spy in use.
+<img src="https://github.com/ervumlens/ko-stylespy/raw/master/screenshot-2.gif" alt="Animation of Style Spy in use."></p>
+
+<h3>Build</h3>
+
+<p>Building Style Spy requires the <a href="http://coffeescript.org">CoffeeScript</a> compiler available from the environment <code>PATH</code> and an installation of Komodo Edit or IDE.
+The <a href="https://github.com/ervumlens/ko-stylespy"><code>ko-stylespy</code></a> repository includes Komodo macros that build the extension.
+Just clone the repo, open a new Komodo project from within the <code>ko-stylespy</code> directory, and run the macros from the Komodo toolbox.</p>
+
+<h3>Questions? Problems? Suggestions?</h3>
+
+<p>Report bugs, make enhancement requests, or ask questions at https://github.com/ervumlens/ko-stylespy/issues . Just click on the big &quot;New Issue&quot; button.</p>
+
+<h3>Thank Yous</h3>
+
+<p>Thanks to Komodo Edit&#39;s developers and contributors, past and present, for making an editor that&#39;s enjoyable to use.</p>
+
+<p>Thanks to Jeremy Ashkenas for creating CoffeeScript.</p>
 
     </div>
 
@@ -309,18 +238,18 @@ echo $foo1-&gt;mul()."";
 <div class="download">
         <div class="releases">
         <!-- release = resource.releases.each_with_index() do |release,k| -->
-            <div class="release  0" id="release-905785">
+            <div class="release  0" id="release-1652160">
                 <div class="files centered">
                        <div class="assets">
                                 <div>
-                                    <a href="https://github.com/Defman21/blueland-komodo/releases/download/v1.0/Blueland.ksf" class="button big primary">
+                                    <a href="https://github.com/ervumlens/ko-stylespy/releases/download/v1.0.0/stylespy-1.0.0-ko.xpi" class="button big primary">
                                         <i class="icon icon-download"></i>
-                                        Blueland.ksf
+                                        stylespy-1.0.0-ko.xpi
                                     </a>
                                 </div>
                        </div>
                         <div class="source">
-                           <a href="https://github.com/Defman21/blueland-komodo/archive/Blueland scheme.zip" class="button">
+                           <a href="https://github.com/ervumlens/ko-stylespy/archive/ko-stylespy v1.0.0.zip" class="button">
                                <i class="icon icon-download"></i>
                                Download Source
                            </a>
@@ -338,38 +267,46 @@ echo $foo1-&gt;mul()."";
             <i class="icon icon-user"></i>
         </dt>
         <dd>
-            <a href="https://github.com/Defman21">
-                <span>Defman21</span>
+            <a href="https://github.com/ervumlens">
+                <span>ervumlens</span>
             </a>
-            <a href="https://github.com/Defman21" class="preview">
-                <img src="https://avatars.githubusercontent.com/u/7100645?v=3?s=18">
+            <a href="https://github.com/ervumlens" class="preview">
+                <img src="https://avatars.githubusercontent.com/u/13005338?v=3?s=18">
             </a>
         </dd>
         
+        <dt>
+            <i class="icon icon-link"></i>
+        </dt>
+        <dd>
+            <a href="https://ervumlens.github.io/ko-stylespy">
+                https://ervumlens.github.io/ko-stylespy
+            </a>
+        </dd>
 
         <dt>
             <i class="icon icon-github"></i>
         </dt>
         <dd>
-            <a href="https://github.com/Defman21/blueland-komodo">
-                    Defman21/blueland-komodo
+            <a href="https://github.com/ervumlens/ko-stylespy">
+                    ervumlens/ko-stylespy
             </a>
         </dd>
     
         <dt>
             <i class="icon icon-clock-o"></i>
         </dt>
-        <dd title="2015-02-01T16:27:15Z">
-            Updated 27 weeks ago
+        <dd title="2015-08-10T19:04:03Z">
+            Updated 2 hours ago
         </dd>
         
         <dt>
             <i class="icon icon-code-fork"></i>
         </dt>
         <dd>
-            <a href="https://github.com/Defman21/blueland-komodo/releases/tag/v1.0">
+            <a href="https://github.com/ervumlens/ko-stylespy/releases/tag/v1.0.0">
                 Version 
-                v1.0
+                v1.0.0
             </a>
         </dd>
 
@@ -377,8 +314,8 @@ echo $foo1-&gt;mul()."";
             <i class="icon icon-bug"></i>
         </dt>
         <dd>
-            <a href="https://github.com/Defman21/blueland-komodo/issues">
-                0 issues
+            <a href="https://github.com/ervumlens/ko-stylespy/issues">
+                6 issues
             </a>
         </dd>
 
@@ -386,14 +323,14 @@ echo $foo1-&gt;mul()."";
             <i class="icon icon-cloud-download"></i>
         </dt>
         <dd>
-            <span>595 downloads</span>
+            <span>16 downloads</span>
         </dd>
     
         <dt>
             <i class="icon icon-star"></i>
         </dt>
         <dd>
-            <span>0 stars</span>
+            <span>1 stars</span>
         </dd>
     </dl>
 </div>
