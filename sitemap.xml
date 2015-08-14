@@ -2893,6 +2893,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://komodoide.com/resources/addons/1ec5--avim/</loc>
+    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/packages/addons/avim/</loc>
+    <lastmod>2015-07-30T08:25:34-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://komodoide.com/resources/addons/ervumlens--stylespy/</loc>
     <lastmod>2015-07-21T15:19:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -3020,18 +3032,6 @@
   </url>
   <url>
     <loc>http://komodoide.com/packages/addons/mysql-database-explorer/</loc>
-    <lastmod>2015-07-30T08:25:34-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/addons/1ec5--avim/</loc>
-    <lastmod>2015-07-21T15:19:14-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/packages/addons/avim/</loc>
     <lastmod>2015-07-30T08:25:34-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
